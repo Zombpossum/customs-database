@@ -1,23 +1,7 @@
 ---
-Image: Pasted image 20260306225602.png
-Date Obtained: 2026-01-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Water
-Gender:
-  - M
-Characteristic:
-  - Tiger
-Pattern:
-Markings:
-  - Irish
-  - Raccoon
-  - Freckles
-  - Neck
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T22:55:54.200-05:00
+modified: 2026-03-06T22:56:46.170-05:00
 ---
-![[Pasted image 20260306225602.png]]
+
+![[Attachments/Pasted image 20260306225602.png]]

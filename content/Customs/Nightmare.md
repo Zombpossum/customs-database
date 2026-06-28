@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220210509.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Clouded Leopard
-  - Ram Horns
-Level: 0
-Orbed: false
-Date Obtained: 2022-05-03
+publish: true
+created: 2026-02-20T21:04:37.368-05:00
+modified: 2026-02-20T21:05:55.348-05:00
 ---
-![[Pasted image 20260220210509.png]]
+
+![[Attachments/Pasted image 20260220210509.png]]

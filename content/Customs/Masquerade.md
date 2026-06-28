@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220163941.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Wild Cat
-  - Husky
-  - Irish
-Level: 0
-Orbed: false
-Date Obtained: 2016-02-08
+publish: true
+created: 2026-02-20T16:39:19.524-05:00
+modified: 2026-02-20T16:40:16.333-05:00
 ---
-![[Pasted image 20260220163941.png]]
+
+![[Attachments/Pasted image 20260220163941.png]]

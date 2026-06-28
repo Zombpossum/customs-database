@@ -1,20 +1,7 @@
 ---
-Image: Pasted image 20260306224035.png
-Date Obtained: 2025-10-16
-Owner:
-  - "{Ban}"
-Statue:
-  - Stone
-Breed:
-  - Munchkin
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Mane
-  - Unicorn Horn
-Level: 2
-Orbed: false
+publish: true
+created: 2026-03-06T22:40:23.218-05:00
+modified: 2026-03-06T22:41:07.684-05:00
 ---
-![[Pasted image 20260306224035.png]]
+
+![[Attachments/Pasted image 20260306224035.png]]

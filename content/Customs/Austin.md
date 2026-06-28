@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306194816.png
-Date Obtained: 2014-07-17
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Longhair
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Tail Blotches
-  - Okapi
-  - Lower Fade
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T19:47:57.049-05:00
+modified: 2026-03-06T19:49:01.730-05:00
 ---
-![[Pasted image 20260306194816.png]]
+
+![[Attachments/Pasted image 20260306194816.png]]

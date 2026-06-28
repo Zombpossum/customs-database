@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220232203.png]]"
-Date Obtained: 2023-07-12
-Owner:
-  - "{Ban}"
-Statue:
-  - Stone
-Breed:
-  - Lesser
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Somali
-  - Head
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:21:55.242-05:00
+modified: 2026-02-20T23:22:44.766-05:00
 ---
-![[Pasted image 20260220232203.png]]
+
+![[Attachments/Pasted image 20260220232203.png]]

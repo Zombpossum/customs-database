@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306205255.png
-Date Obtained: 2019-02-22
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Lesser
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Wolf
-  - Upperside
-  - Snow Leopard
-Level: 9
-Orbed: false
+publish: true
+created: 2026-03-06T20:52:46.394-05:00
+modified: 2026-03-06T20:53:36.798-05:00
 ---
-![[Pasted image 20260306205255.png]]
+
+![[Attachments/Pasted image 20260306205255.png]]

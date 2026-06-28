@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306211705.png
-Date Obtained: 2025-04-29
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Holstein
-  - Filigree
-  - Burmese
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:16:46.686-05:00
+modified: 2026-03-06T21:17:34.733-05:00
 ---
-![[Pasted image 20260306211705.png]]
+
+![[Attachments/Pasted image 20260306211705.png]]

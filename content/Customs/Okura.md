@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220164641.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Water
-Characteristic:
-Pattern:
-Markings:
-  - Fawn Spots
-  - Zebra
-  - Centered
-Level: 0
-Orbed: false
-Date Obtained: 2021-03-10
+publish: true
+created: 2026-02-20T16:46:19.365-05:00
+modified: 2026-02-20T16:47:17.421-05:00
 ---
-![[Pasted image 20260220164641.png]]
+
+![[Attachments/Pasted image 20260220164641.png]]

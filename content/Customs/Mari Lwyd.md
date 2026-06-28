@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306225043.png
-Date Obtained: 2025-11-26
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Nose Strip
-  - Urajiro
-  - Muzzle Tip
-Level: 20
-Orbed: false
+publish: true
+created: 2026-03-06T22:50:33.958-05:00
+modified: 2026-03-06T22:51:25.367-05:00
 ---
-![[Pasted image 20260306225043.png]]
+
+![[Attachments/Pasted image 20260306225043.png]]

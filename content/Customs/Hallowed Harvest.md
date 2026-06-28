@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306213057.png
-Date Obtained: 2020-08-26
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Air
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Wolf
-  - Upperside
-  - Classic Tabby
-  - Roan
-Level: 4
-Orbed: false
+publish: true
+created: 2026-03-06T21:30:46.842-05:00
+modified: 2026-03-06T21:31:45.330-05:00
 ---
-![[Pasted image 20260306213057.png]]
+
+![[Attachments/Pasted image 20260306213057.png]]

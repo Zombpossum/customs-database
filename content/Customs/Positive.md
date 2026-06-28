@@ -1,26 +1,7 @@
 ---
-Image: Pasted image 20260306221929.png
-Date Obtained: 2025-01-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-  - sglt
-  - pstl
-Markings:
-  - Saber Fangs
-  - Head
-  - Zebra
-  - Pronghorns
-  - Raccoon
-  - Neck
-Level: 20
-Orbed: true
+publish: true
+created: 2026-03-06T22:19:09.672-05:00
+modified: 2026-03-06T22:20:25.080-05:00
 ---
-![[Pasted image 20260306221929.png]]
+
+![[Attachments/Pasted image 20260306221929.png]]

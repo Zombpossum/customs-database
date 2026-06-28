@@ -1,18 +1,7 @@
 ---
-Image: "[[Pasted image 20260220205053.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Stone
-Breed:
-  - Lesser
-Characteristic:
-Pattern:
-Markings:
-  - Glyphs
-  - Back Spikes
-Level: 0
-Orbed: false
-Date Obtained: 2022-03-13
+publish: true
+created: 2026-02-20T20:50:26.389-05:00
+modified: 2026-02-20T20:51:45.477-05:00
 ---
-![[Pasted image 20260220205053.png]]
+
+![[Attachments/Pasted image 20260220205053.png]]

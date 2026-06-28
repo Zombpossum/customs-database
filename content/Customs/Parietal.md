@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306210935.png
-Date Obtained: 2024-09-22
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - King Cheetah
-  - Urajiro
-  - Leg Blotches
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:08:27.602-05:00
+modified: 2026-03-06T21:10:33.678-05:00
 ---
-![[Pasted image 20260306210935.png]]
+
+![[Attachments/Pasted image 20260306210935.png]]

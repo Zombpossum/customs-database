@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220232737.png]]"
-Date Obtained: 2019-07-29
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Longhair
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Roan
-  - Zebra
-  - Urajiro
-  - Marbled
-Level: 4
-Orbed: false
+publish: true
+created: 2026-02-20T23:26:05.986-05:00
+modified: 2026-02-20T23:28:25.111-05:00
 ---
-![[Pasted image 20260220232737.png]]
+
+![[Attachments/Pasted image 20260220232737.png]]

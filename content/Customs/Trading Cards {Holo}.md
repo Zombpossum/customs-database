@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220130635.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Zebra
-  - Barring
-  - Marbled
-  - Underside
-Level: 0
-Orbed: false
-Date Obtained: 2018-01-01
+publish: true
+created: 2026-02-20T13:06:18.573-05:00
+modified: 2026-02-20T13:07:23.979-05:00
 ---
-![[Pasted image 20260220130635.png]]
+
+![[Attachments/Pasted image 20260220130635.png]]

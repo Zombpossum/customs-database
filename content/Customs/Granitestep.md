@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220221440.png]]"
-Date Obtained: 2022-01-17
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Lesser
-Characteristic:
-Pattern:
-Markings:
-  - Red Panda
-  - Centered
-  - Mackeral Tabby
-  - Underside
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:14:25.293-05:00
+modified: 2026-02-20T22:15:17.873-05:00
 ---
-![[Pasted image 20260220221440.png]]
+
+![[Attachments/Pasted image 20260220221440.png]]

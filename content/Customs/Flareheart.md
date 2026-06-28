@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220221241.png]]"
-Date Obtained: 2023-01-31
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Longhair
-Characteristic:
-Pattern:
-Markings:
-  - Urajiro
-  - Burmese
-  - Agouti Tabby
-  - Underside
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:12:26.787-05:00
+modified: 2026-02-20T22:13:25.942-05:00
 ---
-![[Pasted image 20260220221241.png]]
+
+![[Attachments/Pasted image 20260220221241.png]]

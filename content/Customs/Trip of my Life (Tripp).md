@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220210226.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Plant
-Characteristic:
-Pattern:
-Markings:
-  - Caiman
-  - Marbled
-  - Tobiano
-  - Back Spikes
-Level: 0
-Orbed: false
-Date Obtained: 2022-04-20
+publish: true
+created: 2026-02-20T21:01:57.445-05:00
+modified: 2026-02-20T21:03:01.048-05:00
 ---
-![[Pasted image 20260220210226.png]]
+
+![[Attachments/Pasted image 20260220210226.png]]

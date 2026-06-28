@@ -1,18 +1,7 @@
 ---
-Image: Pasted image 20260306224442.png
-Date Obtained: 2025-10-25
-Owner:
-  - "{Ban}"
-Statue:
-  - Chalk
-Breed:
-  - Earth
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-Level: 5
-Orbed: false
+publish: true
+created: 2026-03-06T22:44:30.334-05:00
+modified: 2026-03-06T22:45:05.614-05:00
 ---
-![[Pasted image 20260306224442.png]]
+
+![[Attachments/Pasted image 20260306224442.png]]

@@ -1,20 +1,7 @@
 ---
-Image: Pasted image 20260306214514.png
-Date Obtained: 2024-11-13
-Owner:
-  - "{Ban}"
-Statue:
-  - Stone
-Breed:
-  - Munchkin
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Urajiro
-  - Tailtip
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:45:07.115-05:00
+modified: 2026-03-06T21:45:51.774-05:00
 ---
-![[Pasted image 20260306214514.png]]
+
+![[Attachments/Pasted image 20260306214514.png]]

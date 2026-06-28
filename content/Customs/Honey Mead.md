@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220234435.png]]"
-Date Obtained: 2018-09-10
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Plant
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Dalmation
-  - Runes
-  - German Shepherd
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:44:21.838-05:00
+modified: 2026-02-20T23:45:06.277-05:00
 ---
-![[Pasted image 20260220234435.png]]
+
+![[Attachments/Pasted image 20260220234435.png]]

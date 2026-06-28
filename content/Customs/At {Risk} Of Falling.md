@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220160122.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Water
-Characteristic:
-Pattern:
-Markings:
-  - Tobiano
-  - Urajiro
-  - Giraffe
-  - Marbled
-Level: 0
-Orbed: false
-Date Obtained: 2021-01-19
+publish: true
+created: 2026-02-20T16:01:04.270-05:00
+modified: 2026-02-20T16:02:04.807-05:00
 ---
-![[Pasted image 20260220160122.png]]
+
+![[Attachments/Pasted image 20260220160122.png]]

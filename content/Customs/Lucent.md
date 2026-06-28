@@ -1,24 +1,7 @@
 ---
-Image: "[[Pasted image 20260627191032.png]]"
-Date Obtained: 2026-04-19
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Air
-Gender:
-  - M
-Characteristic:
-Pattern:
-  - blko
-  - bluo
-Markings:
-  - Roan
-  - Piebald
-  - Wolf
-  - Tobiano
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T19:10:20.189-04:00
+modified: 2026-06-27T19:11:27.152-04:00
 ---
-![[Pasted image 20260627191032.png]]
+
+![[Attachments/Pasted image 20260627191032.png]]

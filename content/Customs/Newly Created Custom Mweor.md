@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220164544.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Longhair
-Characteristic:
-Pattern:
-Markings:
-  - Zebra
-  - Lower Fade
-  - Clouded Leopard
-Level: 0
-Orbed: false
-Date Obtained: 2020-09-08
+publish: true
+created: 2026-02-20T16:45:10.411-05:00
+modified: 2026-02-20T16:46:16.777-05:00
 ---
-![[Pasted image 20260220164544.png]]
+
+![[Attachments/Pasted image 20260220164544.png]]

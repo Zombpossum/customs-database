@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220234247.png]]"
-Date Obtained: 2018-03-23
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Plant
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Agouti Tabby
-  - Runes
-  - Leg Feathering
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:42:38.409-05:00
+modified: 2026-02-20T23:43:22.397-05:00
 ---
-![[Pasted image 20260220234247.png]]
+
+![[Attachments/Pasted image 20260220234247.png]]

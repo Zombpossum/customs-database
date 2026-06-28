@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306210359.png
-Date Obtained: 2018-09-21
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Longhair
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - German Shepherd
-  - Husky
-  - Wolf
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:03:21.452-05:00
+modified: 2026-03-06T21:04:34.420-05:00
 ---
-![[Pasted image 20260306210359.png]]
+
+![[Attachments/Pasted image 20260306210359.png]]

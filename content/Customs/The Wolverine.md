@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306212903.png
-Date Obtained: 2024-08-13
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Lesser
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Caiman
-  - Head
-  - Underside
-  - Okapi
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:28:49.277-05:00
+modified: 2026-03-06T21:29:39.769-05:00
 ---
-![[Pasted image 20260306212903.png]]
+
+![[Attachments/Pasted image 20260306212903.png]]

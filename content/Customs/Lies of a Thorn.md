@@ -1,19 +1,7 @@
 ---
-Image: Pasted image 20260306224304.png
-Date Obtained: 2025-08-15
-Owner:
-  - "{Ban}"
-Statue:
-  - Chalk
-Breed:
-  - Fire
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Moth Wings
-Level: 0
-Orbed: true
+publish: true
+created: 2026-03-06T22:42:47.739-05:00
+modified: 2026-03-06T22:43:36.829-05:00
 ---
-![[Pasted image 20260306224304.png]]
+
+![[Attachments/Pasted image 20260306224304.png]]

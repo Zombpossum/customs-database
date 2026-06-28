@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220211145.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Ice
-Characteristic:
-Pattern:
-Markings:
-  - Mackeral Tabby
-  - Centered
-  - Dragon Horns
-  - Caiman
-Level: 0
-Orbed: false
-Date Obtained: 2019-03-03
+publish: true
+created: 2026-02-20T21:11:19.603-05:00
+modified: 2026-02-20T21:12:34.805-05:00
 ---
-![[Pasted image 20260220211145.png]]
+
+![[Attachments/Pasted image 20260220211145.png]]

@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220161848.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Earth
-Characteristic:
-Pattern:
-Markings:
-  - Lower Fade
-  - Marbled
-  - Wolf
-  - Roan
-Level: 0
-Orbed: false
-Date Obtained: 2019-01-01
+publish: true
+created: 2026-02-20T16:18:27.388-05:00
+modified: 2026-02-20T16:19:23.752-05:00
 ---
-![[Pasted image 20260220161848.png]]
+
+![[Attachments/Pasted image 20260220161848.png]]

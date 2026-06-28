@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220230254.png]]"
-Date Obtained: 2021-06-01
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Tiger 
-  - Dalmation
-  - Underside
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:02:35.414-05:00
+modified: 2026-02-20T23:03:28.434-05:00
 ---
-![[Pasted image 20260220230254.png]]
+
+![[Attachments/Pasted image 20260220230254.png]]

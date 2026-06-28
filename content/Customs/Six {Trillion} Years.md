@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220212226.png]]"
-Date Obtained: 2017-01-01
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-  - rnbw
-  - star
-Markings:
-  - Red Panda
-  - Badger
-  - Mackeral Tabby
-  - Urajiro
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:21:53.327-05:00
+modified: 2026-02-20T21:23:19.938-05:00
 ---
-![[Pasted image 20260220212226.png]]
+
+![[Attachments/Pasted image 20260220212226.png]]

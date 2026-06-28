@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220154237.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Munchkin
-Characteristic:
-Pattern:
-Markings:
-  - Holstein
-  - Roan
-  - Spotted Tabby
-  - Runes
-Level: 0
-Orbed: false
-Date Obtained: 2017-01-13
+publish: true
+created: 2026-02-20T15:42:15.510-05:00
+modified: 2026-02-20T15:43:12.554-05:00
 ---
-![[Pasted image 20260220154237.png]]
+
+![[Attachments/Pasted image 20260220154237.png]]

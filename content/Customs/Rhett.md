@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220204925.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-  - Fade
-Pattern:
-  - star
-Markings:
-  - Blaze
-  - Eastern Dragon
-  - Shine
-  - Irish
-Level: 0
-Orbed: false
-Date Obtained: 2022-03-31
+publish: true
+created: 2026-02-20T20:49:02.303-05:00
+modified: 2026-02-20T20:50:23.057-05:00
 ---
-![[Pasted image 20260220204925.png]]
+
+![[Attachments/Pasted image 20260220204925.png]]

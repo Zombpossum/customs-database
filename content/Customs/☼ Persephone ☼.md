@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220134640.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Earth
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Tiger 
-  - Cheetah
-Level: 0
-Orbed: false
-Date Obtained: 2025-06-09
+publish: true
+created: 2026-02-20T13:45:36.471-05:00
+modified: 2026-02-20T13:47:40.214-05:00
 ---
-![[Pasted image 20260220134640.png]]
+
+![[Attachments/Pasted image 20260220134640.png]]

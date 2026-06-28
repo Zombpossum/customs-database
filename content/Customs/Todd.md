@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260627190918.png]]"
-Date Obtained: 2026-04-12
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Fire
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Siamese
-  - Runes
-  - Tobiano
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T19:08:57.152-04:00
+modified: 2026-06-27T19:09:59.376-04:00
 ---
-![[Pasted image 20260627190918.png]]
+
+![[Attachments/Pasted image 20260627190918.png]]

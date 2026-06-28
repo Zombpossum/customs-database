@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220163321.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Ice
-Characteristic:
-Pattern:
-Markings:
-  - Tabby
-  - Turkish Van
-  - Urajiro
-  - Snow Leopard
-Level: 0
-Orbed: false
-Date Obtained: 2022-11-26
+publish: true
+created: 2026-02-20T16:33:04.394-05:00
+modified: 2026-02-20T16:34:05.075-05:00
 ---
-![[Pasted image 20260220163321.png]]
+
+![[Attachments/Pasted image 20260220163321.png]]

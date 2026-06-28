@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220233730.png]]"
-Date Obtained: 2021-05-04
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Shine
-  - Body Stripe
-  - Roan
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:37:11.246-05:00
+modified: 2026-02-20T23:38:07.743-05:00
 ---
-![[Pasted image 20260220233730.png]]
+
+![[Attachments/Pasted image 20260220233730.png]]

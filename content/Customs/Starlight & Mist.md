@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220134802.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Ice
-Characteristic:
-Pattern:
-  - star
-Markings:
-  - German Shepherd
-  - Poison Dart Frog
-  - Somali
-  - Mackeral Tabby
-Level: 0
-Orbed: false
-Date Obtained: 2021-02-03
+publish: true
+created: 2026-02-20T13:47:45.389-05:00
+modified: 2026-02-20T13:49:11.464-05:00
 ---
-![[Pasted image 20260220134802.png]]
+
+![[Attachments/Pasted image 20260220134802.png]]

@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220210032.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Mackeral Tabby
-  - Tobiano
-  - Dragon Horns
-  - Roan
-Level: 0
-Orbed: false
-Date Obtained: 2019-01-24
+publish: true
+created: 2026-02-20T20:59:48.534-05:00
+modified: 2026-02-20T21:00:54.570-05:00
 ---
-![[Pasted image 20260220210032.png]]
+
+![[Attachments/Pasted image 20260220210032.png]]

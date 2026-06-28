@@ -1,19 +1,7 @@
 ---
-Image: Pasted image 20260306214752.png
-Date Obtained: 2022-01-20
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Lesser
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Elk Antlers
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:47:42.777-05:00
+modified: 2026-03-06T21:48:22.580-05:00
 ---
-![[Pasted image 20260306214752.png]]
+
+![[Attachments/Pasted image 20260306214752.png]]

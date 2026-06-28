@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220213256.png]]"
-Date Obtained: 2023-10-30
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Plant
-Characteristic:
-Pattern:
-Markings:
-  - Spotted Tabby
-  - Irish
-  - Classic Tabby
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:32:38.329-05:00
+modified: 2026-02-20T21:33:29.234-05:00
 ---
-![[Pasted image 20260220213256.png]]
+
+![[Attachments/Pasted image 20260220213256.png]]

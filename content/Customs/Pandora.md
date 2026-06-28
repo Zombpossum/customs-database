@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220213044.png]]"
-Date Obtained: 2023-01-05
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-  - Bioluminous
-Pattern:
-  - star
-Markings:
-  - Red Panda
-  - Badger
-  - Marbled
-  - Lower Fade
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:30:24.328-05:00
+modified: 2026-02-20T21:31:35.904-05:00
 ---
-![[Pasted image 20260220213044.png]]
+
+![[Attachments/Pasted image 20260220213044.png]]

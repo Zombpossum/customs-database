@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220212002.png]]"
-Date Obtained: 2020-07-21
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-  - rnbw
-Markings:
-  - Mackeral Tabby
-  - Snow Leopard
-  - Marbled
-  - Lower Fade
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:19:40.734-05:00
+modified: 2026-02-20T21:20:42.604-05:00
 ---
-![[Pasted image 20260220212002.png]]
+
+![[Attachments/Pasted image 20260220212002.png]]

@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220140731.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Husky
-  - Classic Tabby
-  - Leopard
-Level: 0
-Orbed: false
-Date Obtained: 2022-05-03
+publish: true
+created: 2026-02-20T14:06:56.374-05:00
+modified: 2026-02-20T14:08:02.824-05:00
 ---
-![[Pasted image 20260220140731.png]]
+
+![[Attachments/Pasted image 20260220140731.png]]

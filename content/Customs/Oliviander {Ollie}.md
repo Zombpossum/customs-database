@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220215311.png]]"
-Date Obtained: 2017-03-07
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Calico
-  - Runes
-  - Holstein
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:52:40.061-05:00
+modified: 2026-02-20T21:53:56.252-05:00
 ---
-![[Pasted image 20260220215311.png]]
+
+![[Attachments/Pasted image 20260220215311.png]]

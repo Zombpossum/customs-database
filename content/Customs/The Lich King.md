@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220215418.png]]"
-Date Obtained: 2021-03-06
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Ice
-Characteristic:
-Pattern:
-Markings:
-  - Poison Dart Frog
-  - Candleflame Tabby
-  - Tobiano
-  - Leg Feathering
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:53:58.710-05:00
+modified: 2026-02-20T21:54:53.418-05:00
 ---
-![[Pasted image 20260220215418.png]]
+
+![[Attachments/Pasted image 20260220215418.png]]

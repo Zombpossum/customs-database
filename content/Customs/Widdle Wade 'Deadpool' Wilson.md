@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220231259.png]]"
-Date Obtained: 2018-01-05
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Munchkin
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Zebra
-  - Spotted Tabby
-  - Panda
-  - Toes
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:12:35.186-05:00
+modified: 2026-02-20T23:13:37.413-05:00
 ---
-![[Pasted image 20260220231259.png]]
+
+![[Attachments/Pasted image 20260220231259.png]]

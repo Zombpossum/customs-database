@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260627185347.png]]"
-Date Obtained: 2026-05-05
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Wolf
-  - Zebra
-  - Raccoon
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T18:53:38.240-04:00
+modified: 2026-06-27T18:54:24.318-04:00
 ---
-![[Pasted image 20260627185347.png]]
+
+![[Attachments/Pasted image 20260627185347.png]]

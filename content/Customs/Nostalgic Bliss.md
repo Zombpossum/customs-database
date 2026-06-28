@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306195103.png
-Date Obtained: 2018-06-15
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Leg Feathering
-  - Blaze
-  - Agouti Tabby
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T19:50:18.626-05:00
+modified: 2026-03-06T19:51:40.393-05:00
 ---
-![[Pasted image 20260306195103.png]]
+
+![[Attachments/Pasted image 20260306195103.png]]

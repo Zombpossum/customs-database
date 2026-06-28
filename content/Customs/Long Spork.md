@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260627185806.png]]"
-Date Obtained: 2026-04-11
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Socks
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T18:57:53.525-04:00
+modified: 2026-06-27T18:58:26.235-04:00
 ---
-![[Pasted image 20260627185806.png]]
+
+![[Attachments/Pasted image 20260627185806.png]]

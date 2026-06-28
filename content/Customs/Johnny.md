@@ -1,21 +1,7 @@
 ---
-Image: "[Pasted image 20260627185239.png]]"
-Date Obtained: 2026-05-05
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Water
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Stardust
-  - Song Sparrow
-  - Irish (Cheekless)
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T18:52:30.835-04:00
+modified: 2026-06-27T18:53:21.219-04:00
 ---
-![[Pasted image 20260627185239.png]]
+
+![[Attachments/Pasted image 20260627185239.png]]

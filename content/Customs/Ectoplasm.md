@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306193928.png
-Date Obtained: 2020-09-19
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Air
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Mackeral Tabby
-  - Wolf
-  - Pitbull
-Level: 2
-Orbed: false
+publish: true
+created: 2026-03-06T19:39:11.765-05:00
+modified: 2026-03-06T19:40:36.683-05:00
 ---
-![[Pasted image 20260306193928.png]]
+
+![[Attachments/Pasted image 20260306193928.png]]

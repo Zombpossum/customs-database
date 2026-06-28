@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220210625.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-  - star
-Markings:
-  - Shine
-  - Roan
-  - Feather Wings
-  - Bat Wings
-Level: 0
-Orbed: false
-Date Obtained: 2020-08-12
+publish: true
+created: 2026-02-20T21:06:04.581-05:00
+modified: 2026-02-20T21:07:05.507-05:00
 ---
-![[Pasted image 20260220210625.png]]
+
+![[Attachments/Pasted image 20260220210625.png]]

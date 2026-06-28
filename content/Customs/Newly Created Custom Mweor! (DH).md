@@ -1,19 +1,7 @@
 ---
-Image: Pasted image 20260306220646.png
-Date Obtained: 2025-03-21
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Dragon Horns
-Level: 8
-Orbed: false
+publish: true
+created: 2026-03-06T22:06:17.526-05:00
+modified: 2026-03-06T22:07:13.851-05:00
 ---
-![[Pasted image 20260306220646.png]]
+
+![[Attachments/Pasted image 20260306220646.png]]

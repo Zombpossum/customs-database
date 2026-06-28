@@ -1,19 +1,7 @@
 ---
-Image: Pasted image 20260306223647.png
-Date Obtained: 2025-04-04
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Muzzle Tip
-Level: 4
-Orbed: false
+publish: true
+created: 2026-03-06T22:36:32.186-05:00
+modified: 2026-03-06T22:37:17.248-05:00
 ---
-![[Pasted image 20260306223647.png]]
+
+![[Attachments/Pasted image 20260306223647.png]]

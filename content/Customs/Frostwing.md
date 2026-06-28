@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220222040.png]]"
-Date Obtained: 2021-12-28
-Owner:
-  - "[Aki]"
-Statue:
-  - Stone
-Breed:
-  - Longhair
-Characteristic:
-Pattern:
-  - grsc
-Markings:
-  - Upperside
-  - Striations
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:20:15.123-05:00
+modified: 2026-02-20T22:21:15.314-05:00
 ---
-![[Pasted image 20260220222040.png]]
+
+![[Attachments/Pasted image 20260220222040.png]]

@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306223730.png
-Date Obtained: 2025-10-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Upperside
-  - Filigree
-  - Doberman
-  - Spotted Tabby
-Level: 14
-Orbed: false
+publish: true
+created: 2026-03-06T22:37:21.086-05:00
+modified: 2026-03-06T22:38:22.515-05:00
 ---
-![[Pasted image 20260306223730.png]]
+
+![[Attachments/Pasted image 20260306223730.png]]

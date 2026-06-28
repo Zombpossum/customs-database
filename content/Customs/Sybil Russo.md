@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306225937.png
-Date Obtained: 2026-01-24
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Shine
-  - Holstein
-  - Wolf
-  - Irish (Cheekless)
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T22:59:29.329-05:00
+modified: 2026-03-06T23:00:10.832-05:00
 ---
-![[Pasted image 20260306225937.png]]
+
+![[Attachments/Pasted image 20260306225937.png]]

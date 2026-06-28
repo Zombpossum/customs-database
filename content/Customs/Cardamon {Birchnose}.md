@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220220706.png]]"
-Date Obtained: 2021-12-28
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Longhair
-Characteristic:
-Pattern:
-Markings:
-  - Tuxedo
-  - Ocelot
-  - Doberman
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:06:37.684-05:00
+modified: 2026-02-20T22:07:44.932-05:00
 ---
-![[Pasted image 20260220220706.png]]
+
+![[Attachments/Pasted image 20260220220706.png]]

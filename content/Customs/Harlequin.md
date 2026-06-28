@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306204136.png
-Date Obtained: 2010-04-04
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Lesser
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Tabby
-  - Tiger 
-  - Zebra
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T20:41:21.949-05:00
+modified: 2026-03-06T20:42:18.727-05:00
 ---
-![[Pasted image 20260306204136.png]]
+
+![[Attachments/Pasted image 20260306204136.png]]

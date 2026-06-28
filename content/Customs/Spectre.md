@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260627184154.png]]"
-Date Obtained: 2026-06-06
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Lightning
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Tobiano
-  - Whale Shark
-  - Raccoon
-Level: 10
-Orbed: false
+publish: true
+created: 2026-06-27T18:39:36.000-04:00
+modified: 2026-06-27T18:44:32.910-04:00
 ---
-![[Pasted image 20260627184154.png]]
+
+![[Attachments/Pasted image 20260627184154.png]]

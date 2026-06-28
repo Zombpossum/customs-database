@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220231508.png]]"
-Date Obtained: 2018-05-18
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Water
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Tuxedo
-  - Candleflame Tabby
-  - Panda
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:14:28.010-05:00
+modified: 2026-02-20T23:15:34.090-05:00
 ---
-![[Pasted image 20260220231508.png]]
+
+![[Attachments/Pasted image 20260220231508.png]]

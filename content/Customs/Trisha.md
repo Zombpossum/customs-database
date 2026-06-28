@@ -1,20 +1,5 @@
 ---
-Image:
-Date Obtained: 2021-01-24
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Air
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Leg Feathering
-  - Urajiro
-  - Calico
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:45:27.892-05:00
+modified: 2026-02-20T22:46:06.327-05:00
 ---

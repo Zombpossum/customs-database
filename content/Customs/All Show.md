@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260627184726.png]]"
-Date Obtained: 2026-03-25
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Water
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Tortoiseshell
-  - Fox
-  - King Cheetah
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T18:47:13.225-04:00
+modified: 2026-06-27T18:48:44.769-04:00
 ---
-![[Pasted image 20260627184726.png]]
+
+![[Attachments/Pasted image 20260627184726.png]]

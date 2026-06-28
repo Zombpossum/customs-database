@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220124701.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Fire
-Characteristic:
-  - Fade
-Pattern:
-Markings:
-  - Centered
-  - Underside
-  - Husky
-  - Tabby
-Level: 0
-Orbed: false
-Date Made: 2016-06-11
+publish: true
+created: 2026-02-20T12:46:30.202-05:00
+modified: 2026-02-20T12:53:40.459-05:00
 ---
-![[Pasted image 20260220124701.png]]
+
+![[Attachments/Pasted image 20260220124701.png]]

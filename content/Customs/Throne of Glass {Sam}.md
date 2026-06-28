@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220154653.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Fire
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Doberman
-  - Marbled
-Level: 0
-Orbed: false
-Date Obtained: 2016-08-24
+publish: true
+created: 2026-02-20T15:46:16.344-05:00
+modified: 2026-02-20T15:47:15.521-05:00
 ---
-![[Pasted image 20260220154653.png]]
+
+![[Attachments/Pasted image 20260220154653.png]]

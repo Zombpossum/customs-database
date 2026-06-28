@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220163121.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Water
-Characteristic:
-Pattern:
-Markings:
-  - Wolf
-  - Spotted Tabby
-  - Mackeral Tabby
-Level: 0
-Orbed: false
-Date Obtained: 2021-06-16
+publish: true
+created: 2026-02-20T16:31:03.237-05:00
+modified: 2026-02-20T16:31:50.237-05:00
 ---
-![[Pasted image 20260220163121.png]]
+
+![[Attachments/Pasted image 20260220163121.png]]

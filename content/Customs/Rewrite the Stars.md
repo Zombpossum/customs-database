@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220162052.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Lightning
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Barring
-  - Mackeral Tabby
-  - Doberman
-Level: 0
-Orbed: false
-Date Obtained: 2021-05-24
+publish: true
+created: 2026-02-20T16:20:45.598-05:00
+modified: 2026-02-20T16:21:49.020-05:00
 ---
-![[Pasted image 20260220162052.png]]
+
+![[Attachments/Pasted image 20260220162052.png]]

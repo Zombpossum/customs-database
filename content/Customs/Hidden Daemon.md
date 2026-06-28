@@ -1,17 +1,7 @@
 ---
-Image: "[[Pasted image 20260220222332.png]]"
-Date Obtained: 2015-12-12
-Owner:
-  - "[Aki]"
-Statue:
-  - Clay
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Thylacine
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:23:13.185-05:00
+modified: 2026-02-20T22:23:58.963-05:00
 ---
-![[Pasted image 20260220222332.png]]
+
+![[Attachments/Pasted image 20260220222332.png]]

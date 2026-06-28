@@ -1,20 +1,7 @@
 ---
-Image: Pasted image 20260306211145.png
-Date Obtained: 2024-10-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Stone
-Breed:
-  - Munchkin
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Okapi
-  - Eye Mask
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:11:38.346-05:00
+modified: 2026-03-06T21:12:27.510-05:00
 ---
-![[Pasted image 20260306211145.png]]
+
+![[Attachments/Pasted image 20260306211145.png]]

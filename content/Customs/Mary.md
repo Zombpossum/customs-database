@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306225317.png
-Date Obtained: 2025-12-25
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Ice
-Gender:
-  - F
-Characteristic:
-  - Ornate
-Pattern:
-Markings:
-  - Zebra
-  - Filigree
-  - Shimmer
-Level: 5
-Orbed: false
+publish: true
+created: 2026-03-06T22:53:08.989-05:00
+modified: 2026-03-06T22:53:54.679-05:00
 ---
-![[Pasted image 20260306225317.png]]
+
+![[Attachments/Pasted image 20260306225317.png]]

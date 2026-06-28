@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220230757.png]]"
-Date Obtained: 2021-03-19
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Plant
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Wolf
-  - Caiman
-  - Husky
-  - Classic Tabby
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:07:49.367-05:00
+modified: 2026-02-20T23:08:39.250-05:00
 ---
-![[Pasted image 20260220230757.png]]
+
+![[Attachments/Pasted image 20260220230757.png]]

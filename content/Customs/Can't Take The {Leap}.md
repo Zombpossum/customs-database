@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220160229.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Front Fade
-  - Giraffe
-  - Marbled
-Level: 0
-Orbed: false
-Date Obtained: 2021-01-19
+publish: true
+created: 2026-02-20T16:02:07.642-05:00
+modified: 2026-02-20T16:03:10.441-05:00
 ---
-![[Pasted image 20260220160229.png]]
+
+![[Attachments/Pasted image 20260220160229.png]]

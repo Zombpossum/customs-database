@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220230205.png]]"
-Date Obtained: 2021-06-01
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Fire
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Badger
-  - Red Panda
-  - Okapi
-  - Roan
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:01:40.260-05:00
+modified: 2026-02-20T23:02:32.636-05:00
 ---
-![[Pasted image 20260220230205.png]]
+
+![[Attachments/Pasted image 20260220230205.png]]

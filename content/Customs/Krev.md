@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220223351.png]]"
-Date Obtained: 2022-12-28
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Earth
-Characteristic:
-  - Bioluminous
-Pattern:
-Markings:
-  - Giraffe
-  - Burmese
-  - Roan
-  - Mackeral Tabby
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:32:29.711-05:00
+modified: 2026-02-20T22:34:27.102-05:00
 ---
-![[Pasted image 20260220223351.png]]
+
+![[Attachments/Pasted image 20260220223351.png]]

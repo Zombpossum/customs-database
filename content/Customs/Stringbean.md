@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306223136.png
-Date Obtained: 2025-02-17
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Upperside
-  - Skunk
-  - Blaze
-Level: 5
-Orbed: false
+publish: true
+created: 2026-03-06T22:31:17.029-05:00
+modified: 2026-03-06T22:32:10.413-05:00
 ---
-![[Pasted image 20260306223136.png]]
+
+![[Attachments/Pasted image 20260306223136.png]]

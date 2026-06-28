@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306215224.png
-Date Obtained: 2026-02-21
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Tapir
-  - Panda
-  - Siamese
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:52:12.813-05:00
+modified: 2026-03-06T21:52:59.394-05:00
 ---
-![[Pasted image 20260306215224.png]]
+
+![[Attachments/Pasted image 20260306215224.png]]

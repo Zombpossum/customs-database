@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306203459.png
-Date Obtained: 2024-10-19
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Whale Shark
-  - Aura
-  - Lynx Point
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T20:34:45.634-05:00
+modified: 2026-03-06T20:35:41.063-05:00
 ---
-![[Pasted image 20260306203459.png]]
+
+![[Attachments/Pasted image 20260306203459.png]]

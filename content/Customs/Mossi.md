@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220164141.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Ice
-Characteristic:
-Pattern:
-Markings:
-  - Tobiano
-  - Agouti Tabby
-  - Roan
-  - Spotted Tabby
-Level: 0
-Orbed: false
-Date Obtained: 2019-03-14
+publish: true
+created: 2026-02-20T16:41:25.552-05:00
+modified: 2026-02-20T16:42:14.379-05:00
 ---
-![[Pasted image 20260220164141.png]]
+
+![[Attachments/Pasted image 20260220164141.png]]

@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220133212.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Plant
-Characteristic:
-Pattern:
-Markings:
-  - Striations
-  - Gemstones
-  - Shine
-  - Classic Tabby
-Level: 0
-Orbed: false
-Date Obtained: 2022-01-05
+publish: true
+created: 2026-02-20T13:31:56.674-05:00
+modified: 2026-02-20T13:33:00.309-05:00
 ---
-![[Pasted image 20260220133212.png]]
+
+![[Attachments/Pasted image 20260220133212.png]]

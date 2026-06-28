@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220214114.png]]"
-Date Obtained: 2020-11-03
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Earth
-Characteristic:
-Pattern:
-Markings:
-  - Marbled
-  - Urajiro
-  - Merle
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:40:46.256-05:00
+modified: 2026-02-20T21:41:41.011-05:00
 ---
-![[Pasted image 20260220214114.png]]
+
+![[Attachments/Pasted image 20260220214114.png]]

@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220225428.png]]"
-Date Obtained: 2021-02-05
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Air
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Zebra
-  - Centered
-  - Irish
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:54:14.590-05:00
+modified: 2026-02-20T22:55:05.745-05:00
 ---
-![[Pasted image 20260220225428.png]]
+
+![[Attachments/Pasted image 20260220225428.png]]

@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306210454.png
-Date Obtained: 2018-09-21
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Badger
-  - Urajiro
-  - Holstein
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:04:43.455-05:00
+modified: 2026-03-06T21:05:29.620-05:00
 ---
-![[Pasted image 20260306210454.png]]
+
+![[Attachments/Pasted image 20260306210454.png]]

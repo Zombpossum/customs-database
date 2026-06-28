@@ -1,20 +1,7 @@
 ---
-Image: Pasted image 20260306204534.png
-Date Obtained: 2022-10-31
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Air
-Gender:
-  - M
-Characteristic:
-  - Bioluminous
-Pattern:
-Markings:
-  - Bioluminescence
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T20:45:25.324-05:00
+modified: 2026-03-06T20:46:03.927-05:00
 ---
-![[Pasted image 20260306204534.png]]
+
+![[Attachments/Pasted image 20260306204534.png]]

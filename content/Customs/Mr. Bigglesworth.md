@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220231908.png]]"
-Date Obtained: 2021-05-10
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Lesser
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Marbled
-  - Siamese
-  - Somali
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:18:49.324-05:00
+modified: 2026-02-20T23:19:42.854-05:00
 ---
-![[Pasted image 20260220231908.png]]
+
+![[Attachments/Pasted image 20260220231908.png]]

@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306230026.png
-Date Obtained: 2026-01-28
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Merle
-  - Hood
-  - Tortoiseshell
-  - Urajiro
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T23:00:15.982-05:00
+modified: 2026-03-06T23:01:08.342-05:00
 ---
-![[Pasted image 20260306230026.png]]
+
+![[Attachments/Pasted image 20260306230026.png]]

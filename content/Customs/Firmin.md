@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306194319.png
-Date Obtained: 2023-12-31
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-  - gglt
-Markings:
-  - Filigree
-  - Hood
-  - Shine
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T19:43:02.588-05:00
+modified: 2026-03-06T19:43:56.618-05:00
 ---
-![[Pasted image 20260306194319.png]]
+
+![[Attachments/Pasted image 20260306194319.png]]

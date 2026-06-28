@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306230220.png
-Date Obtained: 2026-02-11
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Magma
-Gender:
-  - M
-Characteristic:
-Pattern:
-  - firo
-Markings:
-  - Merle
-  - Shine
-  - Irish
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T23:02:10.599-05:00
+modified: 2026-03-06T23:02:57.096-05:00
 ---
-![[Pasted image 20260306230220.png]]
+
+![[Attachments/Pasted image 20260306230220.png]]

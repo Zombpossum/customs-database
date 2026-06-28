@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306224623.png
-Date Obtained: 2025-10-30
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Irish
-  - Holstein
-  - Moustache
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T22:46:03.986-05:00
+modified: 2026-03-06T22:47:03.458-05:00
 ---
-![[Pasted image 20260306224623.png]]
+
+![[Attachments/Pasted image 20260306224623.png]]

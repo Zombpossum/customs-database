@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220233627.png]]"
-Date Obtained: 2019-01-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Munchkin
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Zebra
-  - Irish (Cheekless)
-  - German Shepherd
-  - Agouti Tabby
-Level: 3
-Orbed: false
+publish: true
+created: 2026-02-20T23:36:17.130-05:00
+modified: 2026-02-20T23:37:09.001-05:00
 ---
-![[Pasted image 20260220233627.png]]
+
+![[Attachments/Pasted image 20260220233627.png]]

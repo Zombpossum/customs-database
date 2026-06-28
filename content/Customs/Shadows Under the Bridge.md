@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220212113.png]]"
-Date Obtained: 2020-07-21
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Urajiro
-  - Spotted Tabby
-  - Candleflame Tabby
-  - Classic Tabby
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:20:46.883-05:00
+modified: 2026-02-20T21:21:48.582-05:00
 ---
-![[Pasted image 20260220212113.png]]
+
+![[Attachments/Pasted image 20260220212113.png]]

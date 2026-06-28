@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220214938.png]]"
-Date Obtained: 2021-05-04
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Earth
-Characteristic:
-Pattern:
-Markings:
-  - House Sparrow
-  - Caiman
-  - Roan
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:49:21.365-05:00
+modified: 2026-02-20T21:50:13.983-05:00
 ---
-![[Pasted image 20260220214938.png]]
+
+![[Attachments/Pasted image 20260220214938.png]]

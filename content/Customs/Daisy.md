@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220234155.png]]"
-Date Obtained: 2018-03-23
-Owner:
-  - "{Ban}"
-Statue:
-  - Stone
-Breed:
-  - Plant
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Piebald
-  - Irish (Cheekless)
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:41:35.307-05:00
+modified: 2026-02-20T23:42:31.062-05:00
 ---
-![[Pasted image 20260220234155.png]]
+
+![[Attachments/Pasted image 20260220234155.png]]

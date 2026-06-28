@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220212706.png]]"
-Date Obtained: 2021-10-03
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-  - rnbw
-Markings:
-  - Shine
-  - Roan
-  - Wolf
-  - Marbled
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:26:42.574-05:00
+modified: 2026-02-20T21:28:00.252-05:00
 ---
-![[Pasted image 20260220212706.png]]
+
+![[Attachments/Pasted image 20260220212706.png]]

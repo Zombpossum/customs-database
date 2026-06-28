@@ -1,23 +1,7 @@
 ---
-Image: Pasted image 20260306194655.png
-Date Obtained: 2023-05-05
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Gender:
-  - M
-Characteristic:
-Pattern:
-  - sglt
-  - grsc
-Markings:
-  - Doily
-  - Merle
-  - Giraffe
-Level: 10
-Orbed: false
+publish: true
+created: 2026-03-06T19:46:46.778-05:00
+modified: 2026-03-06T19:47:56.245-05:00
 ---
-![[Pasted image 20260306194655.png]]
+
+![[Attachments/Pasted image 20260306194655.png]]

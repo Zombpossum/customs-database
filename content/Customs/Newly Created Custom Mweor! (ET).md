@@ -1,19 +1,7 @@
 ---
-Image: Pasted image 20260306221230.png
-Date Obtained: 2025-09-22
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Ear Tufts
-Level: 3
-Orbed: false
+publish: true
+created: 2026-03-06T22:12:06.207-05:00
+modified: 2026-03-06T22:13:00.230-05:00
 ---
-![[Pasted image 20260306221230.png]]
+
+![[Attachments/Pasted image 20260306221230.png]]

@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306214218.png
-Date Obtained: 2017-11-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Lesser
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Zebra
-  - Leg Blotches
-  - Clouded Leopard
-Level: 2
-Orbed: false
+publish: true
+created: 2026-03-06T21:42:09.919-05:00
+modified: 2026-03-06T21:43:05.419-05:00
 ---
-![[Pasted image 20260306214218.png]]
+
+![[Attachments/Pasted image 20260306214218.png]]

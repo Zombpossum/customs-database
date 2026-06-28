@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220125837.png]]"
-Owner:
-  - "[Aki]"
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Earth
-Characteristic:
-  - Fade
-Pattern:
-Markings:
-  - Merle
-  - Wild Cat
-  - Okapi
-Level: 3
-Orbed: false
-Date Obtained: 2022-03-29
+publish: true
+created: 2026-02-20T12:58:24.536-05:00
+modified: 2026-02-20T16:49:56.461-05:00
 ---
-![[Pasted image 20260220125837.png]]
+
+![[Attachments/Pasted image 20260220125837.png]]

@@ -1,20 +1,7 @@
 ---
-Image: Pasted image 20260306224753.png
-Date Obtained: 2025-11-13
-Owner:
-  - "{Ban}"
-Statue:
-  - Stone
-Breed:
-  - Lesser
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Underside
-  - Toes
-Level: 3
-Orbed: false
+publish: true
+created: 2026-03-06T22:47:45.390-05:00
+modified: 2026-03-06T22:48:34.853-05:00
 ---
-![[Pasted image 20260306224753.png]]
+
+![[Attachments/Pasted image 20260306224753.png]]

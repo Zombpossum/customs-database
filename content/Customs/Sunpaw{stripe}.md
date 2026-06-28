@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220221846.png]]"
-Date Obtained: 2023-01-03
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Characteristic:
-Pattern:
-  - gglt
-Markings:
-  - Striations
-  - Burmese
-  - Tobiano
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:18:25.751-05:00
+modified: 2026-02-20T22:19:24.198-05:00
 ---
-![[Pasted image 20260220221846.png]]
+
+![[Attachments/Pasted image 20260220221846.png]]

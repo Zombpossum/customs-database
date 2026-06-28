@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306205425.png
-Date Obtained: 2023-07-25
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Body Stripe
-  - Calico
-  - Tobiano
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T20:53:44.674-05:00
+modified: 2026-03-06T20:54:55.561-05:00
 ---
-![[Pasted image 20260306205425.png]]
+
+![[Attachments/Pasted image 20260306205425.png]]

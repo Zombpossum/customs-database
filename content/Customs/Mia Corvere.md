@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220224451.png]]"
-Date Obtained:
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Earth
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Song Sparrow
-  - Badger
-  - Marbled
-  - Blaze
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:44:32.356-05:00
+modified: 2026-02-20T22:45:19.881-05:00
 ---
-![[Pasted image 20260220224451.png]]
+
+![[Attachments/Pasted image 20260220224451.png]]

@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220135428.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-  - star
-Markings:
-  - Centered
-  - Wild Cat
-  - Zebra
-  - Badger
-Level: 10
-Orbed: false
-Date Obtained: 2021-01-06
+publish: true
+created: 2026-02-20T13:54:05.453-05:00
+modified: 2026-02-20T13:55:20.110-05:00
 ---
-![[Pasted image 20260220135428.png]]
+
+![[Attachments/Pasted image 20260220135428.png]]

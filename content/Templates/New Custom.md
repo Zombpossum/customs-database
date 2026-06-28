@@ -1,14 +1,5 @@
 ---
-Image:
-Date Obtained:
-Owner:
-  - "{Ban}"
-Statue:
-Breed:
-Gender:
-Characteristic:
-Pattern:
-Markings:
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T12:30:16.413-05:00
+modified: 2026-02-20T23:09:28.795-05:00
 ---

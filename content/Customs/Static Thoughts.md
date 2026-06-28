@@ -1,19 +1,7 @@
 ---
-Image: Pasted image 20260306213916.png
-Date Obtained: 2024-11-24
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Lesser
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Red Panda
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:38:56.715-05:00
+modified: 2026-03-06T21:39:56.229-05:00
 ---
-![[Pasted image 20260306213916.png]]
+
+![[Attachments/Pasted image 20260306213916.png]]

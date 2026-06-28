@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306204915.png
-Date Obtained: 2023-02-19
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Elk Antlers
-  - Back Spikes
-  - Bioluminescence
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T20:49:05.624-05:00
+modified: 2026-03-06T20:49:49.306-05:00
 ---
-![[Pasted image 20260306204915.png]]
+
+![[Attachments/Pasted image 20260306204915.png]]

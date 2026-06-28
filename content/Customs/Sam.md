@@ -1,20 +1,7 @@
 ---
-Image: Pasted image 20260306211748.png
-Date Obtained: 2022-10-18
-Owner:
-  - "{Ban}"
-Statue:
-  - Stone
-Breed:
-  - Munchkin
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Head
-  - Toes
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:17:41.024-05:00
+modified: 2026-03-06T21:18:17.476-05:00
 ---
-![[Pasted image 20260306211748.png]]
+
+![[Attachments/Pasted image 20260306211748.png]]

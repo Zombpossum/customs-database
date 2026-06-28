@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220235907.png]]"
-Date Obtained: 2022-04-04
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Water
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Holstein
-  - Shine
-  - Agouti Tabby
-  - Song Sparrow
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:58:58.679-05:00
+modified: 2026-02-20T23:59:42.227-05:00
 ---
-![[Pasted image 20260220235907.png]]
+
+![[Attachments/Pasted image 20260220235907.png]]

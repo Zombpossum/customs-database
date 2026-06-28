@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220212339.png]]"
-Date Obtained: 2022-03-13
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Water
-Characteristic:
-Pattern:
-  - star
-  - gglt
-Markings:
-  - Marbled
-  - Classic Tabby
-  - Dalmation
-  - Lower Fade
-Level: 6
-Orbed: false
+publish: true
+created: 2026-02-20T21:23:24.673-05:00
+modified: 2026-02-20T21:24:36.137-05:00
 ---
-![[Pasted image 20260220212339.png]]
+
+![[Attachments/Pasted image 20260220212339.png]]

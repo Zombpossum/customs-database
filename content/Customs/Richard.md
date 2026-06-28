@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220214239.png]]"
-Date Obtained: 2021-09-22
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-  - rnbw
-Markings:
-  - Caiman
-  - Holstein
-  - Tobiano
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:41:43.707-05:00
+modified: 2026-02-20T21:43:25.214-05:00
 ---
-![[Pasted image 20260220214239.png]]
+
+![[Attachments/Pasted image 20260220214239.png]]

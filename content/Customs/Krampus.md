@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306204702.png
-Date Obtained: 2022-12-22
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Air
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Raccoon
-  - Hood
-  - Dragon Horns
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T20:46:57.011-05:00
+modified: 2026-03-06T20:47:41.550-05:00
 ---
-![[Pasted image 20260306204702.png]]
+
+![[Attachments/Pasted image 20260306204702.png]]

@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220211403.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Red Panda
-  - Badger
-  - Song Sparrow
-  - Dragon Horns
-Level: 0
-Orbed: false
-Date Obtained: 2020-09-17
+publish: true
+created: 2026-02-20T21:13:46.789-05:00
+modified: 2026-02-20T21:14:34.494-05:00
 ---
-![[Pasted image 20260220211403.png]]
+
+![[Attachments/Pasted image 20260220211403.png]]

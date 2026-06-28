@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306212954.png
-Date Obtained: 2011-08-02
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Longhair
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Siamese
-  - Okapi
-  - Panda
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:29:46.949-05:00
+modified: 2026-03-06T21:30:38.254-05:00
 ---
-![[Pasted image 20260306212954.png]]
+
+![[Attachments/Pasted image 20260306212954.png]]

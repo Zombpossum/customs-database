@@ -1,23 +1,7 @@
 ---
-Image: Pasted image 20260306210705.png
-Date Obtained: 2024-08-11
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-  - blko
-  - bluo
-Markings:
-  - Panda
-  - Head
-  - Half (Left)
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:06:55.676-05:00
+modified: 2026-03-06T21:07:48.881-05:00
 ---
-![[Pasted image 20260306210705.png]]
+
+![[Attachments/Pasted image 20260306210705.png]]

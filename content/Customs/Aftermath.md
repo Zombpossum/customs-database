@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220223031.png]]"
-Date Obtained: 2021-05-22
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Lesser
-Characteristic:
-Pattern:
-Markings:
-  - Classic Tabby
-  - Badger
-  - Ocelot
-  - Ear Tufts
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:24:56.087-05:00
+modified: 2026-02-20T22:31:14.123-05:00
 ---
-![[Pasted image 20260220223031.png]]
+
+![[Attachments/Pasted image 20260220223031.png]]

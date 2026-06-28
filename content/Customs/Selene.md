@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220215617.png]]"
-Date Obtained: 2015-04-10
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Water
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Giraffe
-  - Zebra
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:56:07.247-05:00
+modified: 2026-02-20T21:56:56.308-05:00
 ---
-![[Pasted image 20260220215617.png]]
+
+![[Attachments/Pasted image 20260220215617.png]]

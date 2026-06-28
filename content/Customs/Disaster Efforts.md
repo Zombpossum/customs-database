@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220225826.png]]"
-Date Obtained: 2021-02-05
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Fire
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Badger
-  - Thylacine
-  - Tiger 
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:57:00.484-05:00
+modified: 2026-02-20T22:59:05.447-05:00
 ---
-![[Pasted image 20260220225826.png]]
+
+![[Attachments/Pasted image 20260220225826.png]]

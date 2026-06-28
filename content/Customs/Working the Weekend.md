@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220163519.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Water
-Characteristic:
-Pattern:
-Markings:
-  - Tobiano
-  - Song Sparrow
-  - Siamese
-Level: 0
-Orbed: false
-Date Obtained: 2021-06-01
+publish: true
+created: 2026-02-20T16:35:00.104-05:00
+modified: 2026-02-20T16:35:55.456-05:00
 ---
-![[Pasted image 20260220163519.png]]
+
+![[Attachments/Pasted image 20260220163519.png]]

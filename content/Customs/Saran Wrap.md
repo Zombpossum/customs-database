@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260627191417.png]]"
-Date Obtained: 2026-06-05
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-  - blko
-Markings:
-  - Agouti Tabby
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T19:13:59.183-04:00
+modified: 2026-06-27T19:14:53.341-04:00
 ---
-![[Pasted image 20260627191417.png]]
+
+![[Attachments/Pasted image 20260627191417.png]]

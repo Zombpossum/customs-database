@@ -1,22 +1,7 @@
 ---
-Image: "[Pasted image 20260220233440.png]]"
-Date Obtained: 2022-01-25
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Air
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Shine
-  - Dragon Horns
-  - Classic Tabby
-  - Underside
-Level: 3
-Orbed: false
+publish: true
+created: 2026-02-20T23:34:13.291-05:00
+modified: 2026-02-20T23:35:19.260-05:00
 ---
-![[Pasted image 20260220233440.png]]
+
+![[Attachments/Pasted image 20260220233440.png]]

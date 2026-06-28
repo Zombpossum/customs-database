@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220225241.png]]"
-Date Obtained: 2021-01-24
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Air
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Holstein
-  - Classic Tabby
-  - Irish
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:52:06.489-05:00
+modified: 2026-02-20T22:53:06.839-05:00
 ---
-![[Pasted image 20260220225241.png]]
+
+![[Attachments/Pasted image 20260220225241.png]]

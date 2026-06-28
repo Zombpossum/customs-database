@@ -1,19 +1,7 @@
 ---
-Image: Pasted image 20260306214428.png
-Date Obtained: 2021-03-05
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Lesser
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Blush
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:44:18.963-05:00
+modified: 2026-03-06T21:45:00.911-05:00
 ---
-![[Pasted image 20260306214428.png]]
+
+![[Attachments/Pasted image 20260306214428.png]]

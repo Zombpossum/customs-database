@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220225129.png]]"
-Date Obtained: 2021-12-29
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Lesser
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Giraffe
-  - Irish
-  - Underside
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:51:16.158-05:00
+modified: 2026-02-20T22:52:04.022-05:00
 ---
-![[Pasted image 20260220225129.png]]
+
+![[Attachments/Pasted image 20260220225129.png]]

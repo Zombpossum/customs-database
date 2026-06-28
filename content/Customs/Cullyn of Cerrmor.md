@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220233228.png]]"
-Date Obtained: 2020-07-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Longhair
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Husky
-  - Marbled
-  - Urajiro
-  - House Sparrow
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:32:14.208-05:00
+modified: 2026-02-20T23:33:05.252-05:00
 ---
-![[Pasted image 20260220233228.png]]
+
+![[Attachments/Pasted image 20260220233228.png]]

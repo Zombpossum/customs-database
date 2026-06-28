@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220230631.png]]"
-Date Obtained: 2022-04-15
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Plant
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Zebra
-  - Tabby
-  - Urajiro
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:05:39.907-05:00
+modified: 2026-02-20T23:07:12.511-05:00
 ---
-![[Pasted image 20260220230631.png]]
+
+![[Attachments/Pasted image 20260220230631.png]]

@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220140823.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Front Fade
-  - Lower Fade
-  - Underside
-  - Classic Tabby
-Level: 0
-Orbed: false
-Date Obtained: 2020-07-21
+publish: true
+created: 2026-02-20T14:08:10.339-05:00
+modified: 2026-02-20T14:09:04.699-05:00
 ---
-![[Pasted image 20260220140823.png]]
+
+![[Attachments/Pasted image 20260220140823.png]]

@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220154346.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-Characteristic:
-Pattern:
-Markings:
-  - Badger
-  - Centered
-  - Spotted Tabby
-  - Zebra
-Level: 0
-Orbed: false
-Date Obtained: 2017-01-13
+publish: true
+created: 2026-02-20T15:43:19.174-05:00
+modified: 2026-02-20T15:44:19.958-05:00
 ---
-![[Pasted image 20260220154346.png]]
+
+![[Attachments/Pasted image 20260220154346.png]]

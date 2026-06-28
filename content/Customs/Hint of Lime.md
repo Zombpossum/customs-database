@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220134312.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Earth
-Characteristic:
-Pattern:
-Markings:
-  - Wolf
-  - Tobiano
-  - Song Sparrow
-  - Classic Tabby
-Level: 0
-Orbed: false
-Date Obtained: 2022-01-25
+publish: true
+created: 2026-02-20T13:42:44.080-05:00
+modified: 2026-02-20T13:44:06.331-05:00
 ---
-![[Pasted image 20260220134312.png]]
+
+![[Attachments/Pasted image 20260220134312.png]]

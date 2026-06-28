@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220223812.png]]"
-Date Obtained: 2021-01-24
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Fire
-Characteristic:
-Pattern:
-Markings:
-  - Urajiro
-  - Marbled
-  - Doberman
-  - Caiman
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:38:02.832-05:00
+modified: 2026-02-20T22:40:15.228-05:00
 ---
-![[Pasted image 20260220223812.png]]
+
+![[Attachments/Pasted image 20260220223812.png]]

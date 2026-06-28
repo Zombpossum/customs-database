@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220222418.png]]"
-Date Obtained: 2015-01-03
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Doberman
-  - Toes
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:24:08.585-05:00
+modified: 2026-02-20T22:24:52.513-05:00
 ---
-![[Pasted image 20260220222418.png]]
+
+![[Attachments/Pasted image 20260220222418.png]]

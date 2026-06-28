@@ -1,23 +1,7 @@
 ---
-Image: "[[Pasted image 20260220232525.png]]"
-Date Obtained: 2020-07-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Air
-Gender:
-  - M
-Characteristic:
-  - Fade
-Pattern:
-Markings:
-  - Half (Left)
-  - House Sparrow
-  - Shine
-  - Runes
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:25:17.014-05:00
+modified: 2026-02-20T23:25:59.125-05:00
 ---
-![[Pasted image 20260220232525.png]]
+
+![[Attachments/Pasted image 20260220232525.png]]

@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220215052.png]]"
-Date Obtained: 2024-10-01
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - German Shepherd
-  - Underside
-  - Husky
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:50:17.721-05:00
+modified: 2026-02-20T21:51:31.893-05:00
 ---
-![[Pasted image 20260220215052.png]]
+
+![[Attachments/Pasted image 20260220215052.png]]

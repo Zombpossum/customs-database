@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306222139.png
-Date Obtained: 2025-12-14
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-  - warm
-Markings:
-  - Tortoiseshell
-  - Lynx Point
-  - Ram Horns
-Level: 5
-Orbed: false
+publish: true
+created: 2026-03-06T22:21:29.454-05:00
+modified: 2026-03-06T22:22:26.142-05:00
 ---
-![[Pasted image 20260306222139.png]]
+
+![[Attachments/Pasted image 20260306222139.png]]

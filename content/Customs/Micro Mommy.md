@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220140550.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Ice
-Characteristic:
-Pattern:
-Markings:
-  - Caiman
-  - Urajiro
-  - Piebald
-  - Mackeral Tabby
-Level: 0
-Orbed: false
-Date Obtained: 2020-07-01
+publish: true
+created: 2026-02-20T14:05:41.373-05:00
+modified: 2026-02-20T14:06:55.577-05:00
 ---
-![[Pasted image 20260220140550.png]]
+
+![[Attachments/Pasted image 20260220140550.png]]

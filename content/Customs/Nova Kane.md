@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220230354.png]]"
-Date Obtained: 2021-06-01
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Water
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Caiman
-  - Roan
-  - Classic Tabby
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:03:44.486-05:00
+modified: 2026-02-20T23:04:33.285-05:00
 ---
-![[Pasted image 20260220230354.png]]
+
+![[Attachments/Pasted image 20260220230354.png]]

@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220220557.png]]"
-Date Obtained: 2020-08-05
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Ocelot
-  - Doberman
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:04:38.117-05:00
+modified: 2026-02-20T22:06:35.254-05:00
 ---
-![[Pasted image 20260220220557.png]]
+
+![[Attachments/Pasted image 20260220220557.png]]

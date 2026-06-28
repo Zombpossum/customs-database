@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220220245.png]]"
-Date Obtained: 2015-01-23
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Fire
-Characteristic:
-Pattern:
-  - grsc
-Markings:
-  - Giraffe
-  - Centered
-  - Underside
-  - Zebra
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:02:16.641-05:00
+modified: 2026-02-20T22:03:31.445-05:00
 ---
-![[Pasted image 20260220220245.png]]
+
+![[Attachments/Pasted image 20260220220245.png]]

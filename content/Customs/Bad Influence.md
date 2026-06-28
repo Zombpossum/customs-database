@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306203720.png
-Date Obtained: 2024-12-27
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Water
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Raccoon
-  - Lynx Point
-  - Filigree
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T20:37:04.289-05:00
+modified: 2026-03-06T20:37:57.540-05:00
 ---
-![[Pasted image 20260306203720.png]]
+
+![[Attachments/Pasted image 20260306203720.png]]

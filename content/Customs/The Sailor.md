@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260627185145.png]]"
-Date Obtained: 2026-05-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Irish
-  - Classic Tabby
-  - House Sparrow
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T18:51:33.602-04:00
+modified: 2026-06-27T18:52:21.053-04:00
 ---
-![[Pasted image 20260627185145.png]]
+
+![[Attachments/Pasted image 20260627185145.png]]

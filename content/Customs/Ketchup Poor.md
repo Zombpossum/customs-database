@@ -1,19 +1,7 @@
 ---
-Image: Pasted image 20260306214849.png
-Date Obtained: 2025-01-07
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Ankle Feather Wings
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:48:29.834-05:00
+modified: 2026-03-06T21:49:15.614-05:00
 ---
-![[Pasted image 20260306214849.png]]
+
+![[Attachments/Pasted image 20260306214849.png]]

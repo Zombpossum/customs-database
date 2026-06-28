@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220224041.png]]"
-Date Obtained: 2021-02-05
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Air
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Tobiano
-  - Zebra
-  - Caiman
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:40:20.226-05:00
+modified: 2026-02-20T22:41:26.701-05:00
 ---
-![[Pasted image 20260220224041.png]]
+
+![[Attachments/Pasted image 20260220224041.png]]

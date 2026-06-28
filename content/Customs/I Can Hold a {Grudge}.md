@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220223625.png]]"
-Date Obtained: 2021-02-27
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Fire
-Characteristic:
-Pattern:
-Markings:
-  - Red Panda
-  - Wolf
-  - Classic Tabby
-  - Caiman
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:36:00.896-05:00
+modified: 2026-02-20T22:36:54.822-05:00
 ---
-![[Pasted image 20260220223625.png]]
+
+![[Attachments/Pasted image 20260220223625.png]]

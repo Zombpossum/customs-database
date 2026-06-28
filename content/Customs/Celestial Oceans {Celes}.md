@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220162653.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Air
-Characteristic:
-Pattern:
-  - star
-Markings:
-  - Upperside
-  - German Shepherd
-  - Lower Fade
-Level: 0
-Orbed: false
-Date Obtained: 2021-10-03
+publish: true
+created: 2026-02-20T16:25:58.917-05:00
+modified: 2026-02-20T16:27:19.649-05:00
 ---
-![[Pasted image 20260220162653.png]]
+
+![[Attachments/Pasted image 20260220162653.png]]

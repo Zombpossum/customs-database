@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220155152.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Zebra
-  - Classic Tabby
-  - Irish
-Level: 0
-Orbed: false
-Date Obtained: 2014-11-21
+publish: true
+created: 2026-02-20T15:51:29.528-05:00
+modified: 2026-02-20T15:52:35.271-05:00
 ---
-![[Pasted image 20260220155152.png]]
+
+![[Attachments/Pasted image 20260220155152.png]]

@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306210237.png
-Date Obtained: 2013-09-28
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Water
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Skunk
-  - Okapi
-  - King Cheetah
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:02:26.529-05:00
+modified: 2026-03-06T21:03:39.329-05:00
 ---
 
-![[Pasted image 20260306210237.png]]
+![[Attachments/Pasted image 20260306210237.png]]

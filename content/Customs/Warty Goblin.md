@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306223949.png
-Date Obtained: 2025-10-13
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Mackeral Tabby
-  - Gemstones
-  - Tail
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T22:39:39.585-05:00
+modified: 2026-03-06T22:40:20.067-05:00
 ---
-![[Pasted image 20260306223949.png]]
+
+![[Attachments/Pasted image 20260306223949.png]]

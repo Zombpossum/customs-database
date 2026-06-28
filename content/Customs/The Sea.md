@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260627185045.png]]"
-Date Obtained: 2026-05-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Water
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Wolf
-  - Classic Tabby
-  - Stardust
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T18:50:24.089-04:00
+modified: 2026-06-27T18:51:26.582-04:00
 ---
-![[Pasted image 20260627185045.png]]
+
+![[Attachments/Pasted image 20260627185045.png]]

@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220132416.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Water
-Characteristic:
-Pattern:
-Markings:
-  - Merle
-  - Marbled
-  - Irish
-  - Doberman
-Level: 0
-Orbed: false
-Date Obtained: 2016-07-01
+publish: true
+created: 2026-02-20T13:23:55.743-05:00
+modified: 2026-02-20T13:25:27.993-05:00
 ---
-![[Pasted image 20260220132416.png]]
+
+![[Attachments/Pasted image 20260220132416.png]]

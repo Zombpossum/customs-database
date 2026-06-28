@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220233535.png]]"
-Date Obtained: 2018-07-22
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Air
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Holstein
-  - Husky
-  - Wolf
-  - Poison Dart Frog
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:35:20.489-05:00
+modified: 2026-02-20T23:36:10.643-05:00
 ---
-![[Pasted image 20260220233535.png]]
+
+![[Attachments/Pasted image 20260220233535.png]]

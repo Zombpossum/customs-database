@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306205157.png
-Date Obtained: 2019-02-22
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Lesser
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Red Panda
-  - Snow Leopard
-  - Urajiro
-Level: 14
-Orbed: false
+publish: true
+created: 2026-03-06T20:51:48.305-05:00
+modified: 2026-03-06T20:52:38.343-05:00
 ---
-![[Pasted image 20260306205157.png]]
+
+![[Attachments/Pasted image 20260306205157.png]]

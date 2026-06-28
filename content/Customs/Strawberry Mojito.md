@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260627190049.png]]"
-Date Obtained: 2026-06-06
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Urajiro
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T19:00:28.268-04:00
+modified: 2026-06-27T19:01:20.997-04:00
 ---
-![[Pasted image 20260627190049.png]]
+
+![[Attachments/Pasted image 20260627190049.png]]

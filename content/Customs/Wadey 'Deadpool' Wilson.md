@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220231134.png]]"
-Date Obtained: 2015-01-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Lesser
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Siamese
-  - Badger
-  - Okapi
-  - Muzzle
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:11:14.455-05:00
+modified: 2026-02-20T23:12:21.954-05:00
 ---
-![[Pasted image 20260220231134.png]]
+
+![[Attachments/Pasted image 20260220231134.png]]

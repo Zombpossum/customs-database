@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306211052.png
-Date Obtained: 2024-09-22
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Shimmer
-  - King Cheetah
-  - Lower Fade
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:10:24.020-05:00
+modified: 2026-03-06T21:11:29.711-05:00
 ---
-![[Pasted image 20260306211052.png]]
+
+![[Attachments/Pasted image 20260306211052.png]]

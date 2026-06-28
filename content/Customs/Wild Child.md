@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306194934.png
-Date Obtained: 2021-01-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Munchkin
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Wolf
-  - German Shepherd
-  - Caiman
-  - Leg Feathering
-Level: 8
-Orbed: false
+publish: true
+created: 2026-03-06T19:49:14.630-05:00
+modified: 2026-03-06T19:50:17.596-05:00
 ---
-![[Pasted image 20260306194934.png]]
+
+![[Attachments/Pasted image 20260306194934.png]]

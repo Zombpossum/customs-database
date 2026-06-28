@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306204343.png
-Date Obtained: 2019-12-13
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Air
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Doberman
-  - Turkish Van
-  - Muzzle
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T20:43:33.336-05:00
+modified: 2026-03-06T20:44:18.181-05:00
 ---
-![[Pasted image 20260306204343.png]]
+
+![[Attachments/Pasted image 20260306204343.png]]

@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220204626.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Fire
-Characteristic:
-  - Fade
-Pattern:
-  - star
-Markings:
-  - Striations
-  - Badger
-  - Deer Antlers
-  - Glyphs
-Level: 0
-Orbed: false
-Date Obtained: 2022-02-10
+publish: true
+created: 2026-02-20T20:45:58.068-05:00
+modified: 2026-02-20T20:47:18.722-05:00
 ---
-![[Pasted image 20260220204626.png]]
+
+![[Attachments/Pasted image 20260220204626.png]]

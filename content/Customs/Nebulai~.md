@@ -1,17 +1,7 @@
 ---
-Image: "[[Pasted image 20260220220142.png]]"
-Date Obtained: 2008-12-31
-Owner:
-  - "[Aki]"
-Statue:
-  - Starter
-Breed:
-  - Lesser
-Characteristic:
-Pattern:
-  - star
-Markings:
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:01:11.180-05:00
+modified: 2026-02-20T22:02:13.175-05:00
 ---
-![[Pasted image 20260220220142.png]]
+
+![[Attachments/Pasted image 20260220220142.png]]

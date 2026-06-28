@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220224349.png]]"
-Date Obtained: 2021-02-05
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Air
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Shine
-  - Song Sparrow
-  - Wolf
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:43:33.019-05:00
+modified: 2026-02-20T22:44:28.687-05:00
 ---
-![[Pasted image 20260220224349.png]]
+
+![[Attachments/Pasted image 20260220224349.png]]

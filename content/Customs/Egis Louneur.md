@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220232431.png]]"
-Date Obtained: 2024-10-31
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Longhair
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Piebald
-  - Tail
-  - Tailtip
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:24:12.483-05:00
+modified: 2026-02-20T23:25:07.138-05:00
 ---
-![[Pasted image 20260220232431.png]]
+
+![[Attachments/Pasted image 20260220232431.png]]

@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306212130.png
-Date Obtained: 2022-04-20
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Water
-Gender:
-  - M
-Characteristic:
-  - Fade
-Pattern:
-Markings:
-  - Panda
-  - Irish
-  - Stars
-Level: 2
-Orbed: false
+publish: true
+created: 2026-03-06T21:21:16.934-05:00
+modified: 2026-03-06T21:22:09.135-05:00
 ---
-![[Pasted image 20260306212130.png]]
+
+![[Attachments/Pasted image 20260306212130.png]]

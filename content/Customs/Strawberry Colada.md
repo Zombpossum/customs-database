@@ -1,18 +1,7 @@
 ---
-Image: "[[Pasted image 20260627190142.png]]"
-Date Obtained: 2026-05-06
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Fawn Spots
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T19:01:24.988-04:00
+modified: 2026-06-27T19:02:15.536-04:00
 ---
-![[Pasted image 20260627190142.png]]
+
+![[Attachments/Pasted image 20260627190142.png]]

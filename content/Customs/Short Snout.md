@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220212543.png]]"
-Date Obtained: 2022-09-26
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Air
-Characteristic:
-Pattern:
-  - cool
-  - star
-Markings:
-  - Urajiro
-  - Siamese
-  - Marbled
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:25:27.004-05:00
+modified: 2026-02-20T21:26:39.878-05:00
 ---
-![[Pasted image 20260220212543.png]]
+
+![[Attachments/Pasted image 20260220212543.png]]

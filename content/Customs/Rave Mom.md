@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260627185939.png]]"
-Date Obtained: 2026-05-04
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Lesser
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Leg Stripes
-  - Body Stripe
-  - Backstripe
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T18:59:31.652-04:00
+modified: 2026-06-27T19:00:22.840-04:00
 ---
-![[Pasted image 20260627185939.png]]
+
+![[Attachments/Pasted image 20260627185939.png]]

@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260627190419.png]]"
-Date Obtained: 2026-06-18
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Plant
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Aura
-  - Classic Tabby
-  - Roan
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T19:04:11.527-04:00
+modified: 2026-06-27T19:04:52.668-04:00
 ---
-![[Pasted image 20260627190419.png]]
+
+![[Attachments/Pasted image 20260627190419.png]]

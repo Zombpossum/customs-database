@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306225412.png
-Date Obtained: 2025-12-28
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Water
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Cardinal
-  - Irish
-  - Underside
-  - Thylacine
-Level: 20
-Orbed: false
+publish: true
+created: 2026-03-06T22:53:55.359-05:00
+modified: 2026-03-06T22:54:47.981-05:00
 ---
-![[Pasted image 20260306225412.png]]
+
+![[Attachments/Pasted image 20260306225412.png]]

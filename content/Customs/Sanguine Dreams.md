@@ -1,20 +1,5 @@
 ---
-Image:
-Date Obtained: 2021-02-05
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Air
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Classic Tabby
-  - Calico
-  - Irish
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:53:16.220-05:00
+modified: 2026-02-20T22:54:11.293-05:00
 ---

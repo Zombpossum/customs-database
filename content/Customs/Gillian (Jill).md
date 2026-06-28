@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220233329.png]]"
-Date Obtained: 2019-07-22
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Munchkin
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Runes
-  - House Sparrow
-  - Marbled
-  - Tobiano
-Level: 5
-Orbed: false
+publish: true
+created: 2026-02-20T23:33:19.376-05:00
+modified: 2026-02-20T23:34:11.848-05:00
 ---
-![[Pasted image 20260220233329.png]]
+
+![[Attachments/Pasted image 20260220233329.png]]

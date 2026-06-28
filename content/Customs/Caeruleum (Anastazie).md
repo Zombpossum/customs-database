@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220235524.png]]"
-Date Obtained: 2022-07-28
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Munchkin
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Turkish Van
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:55:13.687-05:00
+modified: 2026-02-20T23:56:06.140-05:00
 ---
-![[Pasted image 20260220235524.png]]
+
+![[Attachments/Pasted image 20260220235524.png]]

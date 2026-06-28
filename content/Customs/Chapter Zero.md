@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306225752.png
-Date Obtained: 2026-01-10
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Fire
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Okapi
-  - Badger
-  - Zebra
-Level: 9
-Orbed: false
+publish: true
+created: 2026-03-06T22:57:39.676-05:00
+modified: 2026-03-06T22:58:25.547-05:00
 ---
-![[Pasted image 20260306225752.png]]
+
+![[Attachments/Pasted image 20260306225752.png]]

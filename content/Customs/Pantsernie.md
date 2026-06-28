@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220155953.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-  - rnbw
-Markings:
-  - Wolf
-  - Classic Tabby
-  - Roan
-Level: 0
-Orbed: false
-Date Obtained: 2021-02-02
+publish: true
+created: 2026-02-20T15:59:36.477-05:00
+modified: 2026-02-20T16:00:32.385-05:00
 ---
-![[Pasted image 20260220155953.png]]
+
+![[Attachments/Pasted image 20260220155953.png]]

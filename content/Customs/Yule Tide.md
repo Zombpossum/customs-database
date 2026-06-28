@@ -1,20 +1,7 @@
 ---
-Image: Pasted image 20260306203902.png
-Date Obtained: 2021-12-26
-Owner:
-  - "{Ban}"
-Statue:
-  - Stone
-Breed:
-  - Munchkin
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Wolf
-  - Elk Antlers
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T20:38:52.557-05:00
+modified: 2026-03-06T20:39:35.918-05:00
 ---
-![[Pasted image 20260306203902.png]]
+
+![[Attachments/Pasted image 20260306203902.png]]

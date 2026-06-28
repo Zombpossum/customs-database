@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306224352.png
-Date Obtained: 2025-10-25
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Water
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Merle
-  - Fawn Spots
-  - Tail
-Level: 8
-Orbed: false
+publish: true
+created: 2026-03-06T22:43:38.617-05:00
+modified: 2026-03-06T22:44:29.562-05:00
 ---
-![[Pasted image 20260306224352.png]]
+
+![[Attachments/Pasted image 20260306224352.png]]

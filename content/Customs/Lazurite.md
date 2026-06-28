@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220133758.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-Characteristic:
-  - Bioluminous
-Pattern:
-Markings:
-  - Holstein
-  - Caiman
-  - Roan
-  - Classic Tabby
-Level: 0
-Orbed: false
-Date Obtained: 2023-01-31
+publish: true
+created: 2026-02-20T13:37:33.423-05:00
+modified: 2026-02-20T13:38:41.771-05:00
 ---
-![[Pasted image 20260220133758.png]]
+
+![[Attachments/Pasted image 20260220133758.png]]

@@ -1,19 +1,7 @@
 ---
-Image: Pasted image 20260306215023.png
-Date Obtained: 2025-02-06
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Toes
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:50:01.551-05:00
+modified: 2026-03-06T21:50:58.666-05:00
 ---
-![[Pasted image 20260306215023.png]]
+
+![[Attachments/Pasted image 20260306215023.png]]

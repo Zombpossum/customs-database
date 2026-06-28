@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220210406.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Plant
-Characteristic:
-Pattern:
-Markings:
-  - Raccoon
-  - Marbled
-  - Merle
-  - Back Spikes
-Level: 0
-Orbed: false
-Date Obtained: 2022-04-20
+publish: true
+created: 2026-02-20T21:03:04.115-05:00
+modified: 2026-02-20T21:04:31.935-05:00
 ---
-![[Pasted image 20260220210406.png]]
+
+![[Attachments/Pasted image 20260220210406.png]]

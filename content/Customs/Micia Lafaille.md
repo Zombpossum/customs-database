@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306194438.png
-Date Obtained: 2024-01-23
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-  - gglt
-Markings:
-  - Doily
-  - Wolf
-  - Bioluminescence
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T19:44:04.329-05:00
+modified: 2026-03-06T19:45:16.936-05:00
 ---
-![[Pasted image 20260306194438.png]]
+
+![[Attachments/Pasted image 20260306194438.png]]

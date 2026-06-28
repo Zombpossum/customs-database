@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220231012.png]]"
-Date Obtained: 2018-01-06
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Lesser
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Zebra
-  - Classic Tabby
-  - Panda
-  - Toes
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:09:16.501-05:00
+modified: 2026-02-20T23:11:05.205-05:00
 ---
-![[Pasted image 20260220231012.png]]
+
+![[Attachments/Pasted image 20260220231012.png]]

@@ -1,18 +1,7 @@
 ---
-Image: "[[Pasted image 20260220215945.png]]"
-Date Obtained: 2015-12-12
-Owner:
-  - "[Aki]"
-Statue:
-  - Clay
-Breed:
-  - Earth
-Characteristic:
-Pattern:
-  - star
-Markings:
-  - Doberman
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:59:36.470-05:00
+modified: 2026-02-20T22:00:13.344-05:00
 ---
-![[Pasted image 20260220215945.png]]
+
+![[Attachments/Pasted image 20260220215945.png]]

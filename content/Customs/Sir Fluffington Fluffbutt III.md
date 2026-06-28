@@ -1,20 +1,7 @@
 ---
-Image: Pasted image 20260306211335.png
-Date Obtained: 2024-10-30
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Deer Antlers
-  - Moustache
-Level: 0
-Orbed: true
+publish: true
+created: 2026-03-06T21:13:24.148-05:00
+modified: 2026-03-06T21:14:21.232-05:00
 ---
-![[Pasted image 20260306211335.png]]
+
+![[Attachments/Pasted image 20260306211335.png]]

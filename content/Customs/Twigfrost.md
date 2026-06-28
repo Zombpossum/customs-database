@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220221948.png]]"
-Date Obtained: 2023-01-30
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Lesser
-Characteristic:
-Pattern:
-Markings:
-  - Agouti Tabby
-  - Husky
-  - Calico
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:19:26.751-05:00
+modified: 2026-02-20T22:20:12.663-05:00
 ---
-![[Pasted image 20260220221948.png]]
+
+![[Attachments/Pasted image 20260220221948.png]]

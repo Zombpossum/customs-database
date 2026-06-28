@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306222452.png
-Date Obtained: 2025-10-10
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Zebra
-  - Siamese
-  - Lynx Point
-Level: 7
-Orbed: false
+publish: true
+created: 2026-03-06T22:24:38.977-05:00
+modified: 2026-03-06T22:25:25.734-05:00
 ---
-![[Pasted image 20260306222452.png]]
+
+![[Attachments/Pasted image 20260306222452.png]]

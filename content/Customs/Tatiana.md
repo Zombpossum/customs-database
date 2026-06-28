@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220140348.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Lightning
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Classic Tabby
-  - Tiger 
-Level: 0
-Orbed: false
-Date Obtained: 2013-07-01
+publish: true
+created: 2026-02-20T14:03:31.154-05:00
+modified: 2026-02-20T14:04:31.695-05:00
 ---
-![[Pasted image 20260220140348.png]]
+
+![[Attachments/Pasted image 20260220140348.png]]

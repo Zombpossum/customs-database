@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220155024.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Longhair
-Characteristic:
-Pattern:
-Markings:
-  - Red Panda
-  - Lower Fade
-  - Marbled
-  - Runes
-Level: 0
-Orbed: false
-Date Obtained: 2017-10-22
+publish: true
+created: 2026-02-20T15:49:57.798-05:00
+modified: 2026-02-20T15:51:26.435-05:00
 ---
-![[Pasted image 20260220155024.png]]
+
+![[Attachments/Pasted image 20260220155024.png]]

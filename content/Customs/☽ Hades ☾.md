@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220134424.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-Characteristic:
-  - Bioluminous
-Pattern:
-Markings:
-  - Holstein
-  - Striations
-  - Roan
-  - Urajiro
-Level: 3
-Orbed: false
-Date Obtained: 2025-06-09
+publish: true
+created: 2026-02-20T13:44:10.201-05:00
+modified: 2026-02-20T13:45:33.754-05:00
 ---
-![[Pasted image 20260220134424.png]]
+
+![[Attachments/Pasted image 20260220134424.png]]

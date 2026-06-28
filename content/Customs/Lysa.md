@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220124246.png]]"
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Munchkin
-Characteristic:
-Pattern:
-Markings:
-  - Eye Mask
-  - Doberman
-  - Undereye
-  - Freckles
-Level: 11
-Orbed: false
-Date Made: 2018-01-01
+publish: true
+created: 2026-02-20T12:42:23.106-05:00
+modified: 2026-02-20T12:53:44.429-05:00
 ---
-![[Pasted image 20260220124246.png]]
+
+![[Attachments/Pasted image 20260220124246.png]]

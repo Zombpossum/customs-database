@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306205528.png
-Date Obtained: 2023-07-30
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Back Stripe
-  - Blaze
-  - Underside
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T20:55:09.841-05:00
+modified: 2026-03-06T20:56:10.572-05:00
 ---
-![[Pasted image 20260306205528.png]]
+
+![[Attachments/Pasted image 20260306205528.png]]

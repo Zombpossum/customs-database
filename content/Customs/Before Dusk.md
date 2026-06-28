@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220162207.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Lower Fade
-  - Giraffe
-  - Agouti Tabby
-Level: 0
-Orbed: false
-Date Obtained: 2021-05-25
+publish: true
+created: 2026-02-20T16:21:51.900-05:00
+modified: 2026-02-20T16:22:44.219-05:00
 ---
-![[Pasted image 20260220162207.png]]
+
+![[Attachments/Pasted image 20260220162207.png]]

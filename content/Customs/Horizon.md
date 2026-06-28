@@ -1,22 +1,7 @@
 ---
-Image: "[Pasted image 20260627190516.png]]"
-Date Obtained: 2026-06-17
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-  - noon
-  - dusk
-  - blko
-Markings:
-  - Tortoiseshell
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T19:04:55.630-04:00
+modified: 2026-06-27T19:06:04.794-04:00
 ---
-![[Pasted image 20260627190516.png]]
+
+![[Attachments/Pasted image 20260627190516.png]]

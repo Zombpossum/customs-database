@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220213936.png]]"
-Date Obtained: 2022-04-18
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Lesser
-Characteristic:
-Pattern:
-Markings:
-  - Tuxedo
-  - Husky
-  - Roan
-  - Lower Fade
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:39:19.691-05:00
+modified: 2026-02-20T21:40:43.510-05:00
 ---
-![[Pasted image 20260220213936.png]]
+
+![[Attachments/Pasted image 20260220213936.png]]

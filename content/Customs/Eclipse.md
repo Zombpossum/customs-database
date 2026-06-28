@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220161323.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-  - star
-Markings:
-  - Centered
-  - Marbled
-  - Upperside
-  - Urajiro
-Level: 0
-Orbed: false
-Date Obtained: 2021-01-20
+publish: true
+created: 2026-02-20T16:12:01.782-05:00
+modified: 2026-02-20T16:13:49.234-05:00
 ---
-![[Pasted image 20260220161323.png]]
+
+![[Attachments/Pasted image 20260220161323.png]]

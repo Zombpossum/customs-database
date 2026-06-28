@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220205234.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Longhair
-Characteristic:
-Pattern:
-  - rnbw
-Markings:
-  - Front Fade
-  - Marbled
-  - Ram Horns
-  - Dragon Horns
-Level: 0
-Orbed: false
-Date Obtained: 2020-07-21
+publish: true
+created: 2026-02-20T20:51:54.384-05:00
+modified: 2026-02-20T20:53:25.530-05:00
 ---
-![[Pasted image 20260220205234.png]]
+
+![[Attachments/Pasted image 20260220205234.png]]

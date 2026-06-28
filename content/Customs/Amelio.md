@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220232013.png]]"
-Date Obtained: 2023-07-12
-Owner:
-  - "{Ban}"
-Statue:
-  - Stone
-Breed:
-  - Lesser
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Spotted Tabby
-  - Chest Splash
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:19:49.638-05:00
+modified: 2026-02-20T23:20:38.149-05:00
 ---
-![[Pasted image 20260220232013.png]]
+
+![[Attachments/Pasted image 20260220232013.png]]

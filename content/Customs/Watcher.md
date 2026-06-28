@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306212605.png
-Date Obtained: 2018-06-21
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Red Panda
-  - Somali
-  - Wolf
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:25:48.946-05:00
+modified: 2026-03-06T21:26:57.001-05:00
 ---
 
-![[Pasted image 20260306212605.png]]
+![[Attachments/Pasted image 20260306212605.png]]

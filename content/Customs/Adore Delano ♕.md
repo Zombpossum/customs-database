@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220155556.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Classic Tabby
-  - Clouded Leopard
-  - German Shepherd
-  - Irish (Cheekless)
-Level: 0
-Orbed: false
-Date Obtained: 2020-09-15
+publish: true
+created: 2026-02-20T15:55:40.821-05:00
+modified: 2026-02-20T15:56:59.547-05:00
 ---
-![[Pasted image 20260220155556.png]]
+
+![[Attachments/Pasted image 20260220155556.png]]

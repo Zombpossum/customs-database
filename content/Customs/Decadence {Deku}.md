@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220205604.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-Characteristic:
-Pattern:
-Markings:
-  - Agouti Tabby
-  - House Sparrow
-  - Ram Horns
-  - Dragon Horns
-Level: 0
-Orbed: false
-Date Obtained: 2020-07-01
+publish: true
+created: 2026-02-20T20:55:48.837-05:00
+modified: 2026-02-20T20:56:34.124-05:00
 ---
-![[Pasted image 20260220205604.png]]
+
+![[Attachments/Pasted image 20260220205604.png]]

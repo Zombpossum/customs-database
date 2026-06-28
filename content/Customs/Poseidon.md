@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220215522.png]]"
-Date Obtained: 2016-05-20
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Water
-Characteristic:
-Pattern:
-Markings:
-  - Calico
-  - Zebra
-  - Half (Left)
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:55:07.351-05:00
+modified: 2026-02-20T21:56:03.794-05:00
 ---
-![[Pasted image 20260220215522.png]]
+
+![[Attachments/Pasted image 20260220215522.png]]

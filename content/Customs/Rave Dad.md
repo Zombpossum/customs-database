@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260627185847.png]]"
-Date Obtained: 2026-05-04
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Lesser
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Doberman
-  - Modern Stripes
-  - Toes
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T18:58:29.439-04:00
+modified: 2026-06-27T18:59:22.431-04:00
 ---
-![[Pasted image 20260627185847.png]]
+
+![[Attachments/Pasted image 20260627185847.png]]

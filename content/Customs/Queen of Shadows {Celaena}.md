@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220154747.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Urajiro
-  - Marbled
-  - Roan
-  - Doberman
-Level: 0
-Orbed: false
-Date Obtained: 2017-07-17
+publish: true
+created: 2026-02-20T15:47:24.401-05:00
+modified: 2026-02-20T15:48:29.454-05:00
 ---
-![[Pasted image 20260220154747.png]]
+
+![[Attachments/Pasted image 20260220154747.png]]

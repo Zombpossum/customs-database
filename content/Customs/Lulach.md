@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220232304.png]]"
-Date Obtained: 2023-07-12
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Lesser
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Underside
-  - Burmese
-  - Tail
-  - Toes
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:22:52.018-05:00
+modified: 2026-02-20T23:23:48.255-05:00
 ---
-![[Pasted image 20260220232304.png]]
+
+![[Attachments/Pasted image 20260220232304.png]]

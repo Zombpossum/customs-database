@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220135315.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Earth
-Characteristic:
-Pattern:
-  - star
-Markings:
-  - Dalmation
-  - Leopard
-  - Red Panda
-  - Roan
-Level: 0
-Orbed: false
-Date Obtained: 2022-02-17
+publish: true
+created: 2026-02-20T13:52:54.211-05:00
+modified: 2026-02-20T13:54:02.397-05:00
 ---
-![[Pasted image 20260220135315.png]]
+
+![[Attachments/Pasted image 20260220135315.png]]

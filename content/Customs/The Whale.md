@@ -1,23 +1,7 @@
 ---
-Image: Pasted image 20260306225504.png
-Date Obtained: 2026-01-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Water
-Gender:
-  - F
-Characteristic:
-  - Tiger
-Pattern:
-Markings:
-  - Great White Shark
-  - Striations
-  - Appaloosa
-  - Underside
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T22:54:49.426-05:00
+modified: 2026-03-06T22:55:49.670-05:00
 ---
-![[Pasted image 20260306225504.png]]
+
+![[Attachments/Pasted image 20260306225504.png]]

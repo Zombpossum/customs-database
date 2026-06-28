@@ -1,25 +1,7 @@
 ---
-Image: Pasted image 20260306221801.png
-Date Obtained: 2025-01-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-  - sglt
-Markings:
-  - Cardinal
-  - Irish (Cheekless)
-  - Okapi
-  - Head Feather Wings
-  - Eastern Dragon
-  - Irish
-Level: 20
-Orbed: true
+publish: true
+created: 2026-03-06T22:16:33.551-05:00
+modified: 2026-03-06T22:19:05.890-05:00
 ---
-![[Pasted image 20260306221801.png]]
+
+![[Attachments/Pasted image 20260306221801.png]]

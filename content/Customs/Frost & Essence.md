@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220134934.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Ice
-Characteristic:
-Pattern:
-  - star
-Markings:
-  - Centered
-  - Mackeral Tabby
-  - House Sparrow
-Level: 0
-Orbed: false
-Date Obtained: 2021-02-03
+publish: true
+created: 2026-02-20T13:49:17.234-05:00
+modified: 2026-02-20T13:50:30.858-05:00
 ---
-![[Pasted image 20260220134934.png]]
+
+![[Attachments/Pasted image 20260220134934.png]]

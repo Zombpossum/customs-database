@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220135543.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Zebra
-  - Holstein
-  - Leopard
-Level: 0
-Orbed: false
-Date Obtained: 2019-08-09
+publish: true
+created: 2026-02-20T13:55:26.835-05:00
+modified: 2026-02-20T13:59:14.060-05:00
 ---
-![[Pasted image 20260220135543.png]]
+
+![[Attachments/Pasted image 20260220135543.png]]

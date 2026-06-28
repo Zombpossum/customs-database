@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220153754.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Plant
-Characteristic:
-Pattern:
-Markings:
-  - Marbled
-  - Roan
-  - Mackeral Tabby
-  - Poison Dart Frog
-Level: 0
-Orbed: false
-Date Obtained: 2019-01-01
+publish: true
+created: 2026-02-20T15:37:38.367-05:00
+modified: 2026-02-20T15:38:59.110-05:00
 ---
-![[Pasted image 20260220153754.png]]
+
+![[Attachments/Pasted image 20260220153754.png]]

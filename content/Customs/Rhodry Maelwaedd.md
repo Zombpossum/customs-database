@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306222845.png
-Date Obtained: 2018-07-13
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Air
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Red Panda
-  - Dragon Horns
-  - Classic Tabby
-  - Wolf
-Level: 14
-Orbed: false
+publish: true
+created: 2026-03-06T22:28:30.868-05:00
+modified: 2026-03-06T22:29:22.586-05:00
 ---
-![[Pasted image 20260306222845.png]]
+
+![[Attachments/Pasted image 20260306222845.png]]

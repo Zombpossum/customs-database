@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306194057.png
-Date Obtained: 2024-12-28
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Air
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Raccoon
-  - Cardinal
-  - Fox
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T19:40:38.509-05:00
+modified: 2026-03-06T19:41:36.658-05:00
 ---
-![[Pasted image 20260306194057.png]]
+
+![[Attachments/Pasted image 20260306194057.png]]

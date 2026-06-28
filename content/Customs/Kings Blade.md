@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220224815.png]]"
-Date Obtained: 2021-01-24
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Lesser
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Merle
-  - Zebra
-  - Classic Tabby
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:47:09.671-05:00
+modified: 2026-02-20T22:48:19.829-05:00
 ---
-![[Pasted image 20260220224815.png]]
+
+![[Attachments/Pasted image 20260220224815.png]]

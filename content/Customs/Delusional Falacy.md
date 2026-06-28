@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306203352.png
-Date Obtained: 2024-10-17
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Lesser
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Shimmer
-  - Shine
-  - Aura
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T20:33:34.096-05:00
+modified: 2026-03-06T20:34:35.744-05:00
 ---
 
-**![[Pasted image 20260306203352.png]]**
+**![[Attachments/Pasted image 20260306203352.png]]**

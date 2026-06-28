@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306214340.png
-Date Obtained: 2021-05-06
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Wolf
-  - Body Stripe
-  - Roan
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:43:06.074-05:00
+modified: 2026-03-06T21:44:12.392-05:00
 ---
-![[Pasted image 20260306214340.png]]
+
+![[Attachments/Pasted image 20260306214340.png]]

@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306222345.png
-Date Obtained: 2025-10-09
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Merle
-  - Somali
-  - Tortoiseshell (Inverted)
-Level: 9
-Orbed: false
+publish: true
+created: 2026-03-06T22:23:32.408-05:00
+modified: 2026-03-06T22:24:38.371-05:00
 ---
-![[Pasted image 20260306222345.png]]
+
+![[Attachments/Pasted image 20260306222345.png]]

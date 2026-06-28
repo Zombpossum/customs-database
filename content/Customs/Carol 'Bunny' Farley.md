@@ -1,23 +1,7 @@
 ---
-Image: Pasted image 20260306222553.png
-Date Obtained: 2025-08-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-  - bluo
-Markings:
-  - Agouti Tabby
-  - Ocelot
-  - Underside
-  - Freckles
-Level: 5
-Orbed: false
+publish: true
+created: 2026-03-06T22:25:27.687-05:00
+modified: 2026-03-06T22:26:40.820-05:00
 ---
-![[Pasted image 20260306222553.png]]
+
+![[Attachments/Pasted image 20260306222553.png]]

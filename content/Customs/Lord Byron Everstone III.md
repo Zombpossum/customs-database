@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306225844.png
-Date Obtained: 2026-01-19
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Air
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - German Shepherd
-  - Candleflame Tabby
-  - Urajiro
-  - Chest Splash
-Level: 9
-Orbed: false
+publish: true
+created: 2026-03-06T22:58:27.880-05:00
+modified: 2026-03-06T22:59:23.505-05:00
 ---
-![[Pasted image 20260306225844.png]]
+
+![[Attachments/Pasted image 20260306225844.png]]

@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260627185454.png]]"
-Date Obtained: 2026-04-04
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Water
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Tortoiseshell
-  - Tobiano
-  - Holstein
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T18:54:29.073-04:00
+modified: 2026-06-27T18:55:46.167-04:00
 ---
-![[Pasted image 20260627185454.png]]
+
+![[Attachments/Pasted image 20260627185454.png]]

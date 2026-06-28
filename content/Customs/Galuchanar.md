@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220125605.png]]"
-Owner:
-  - "[Aki]"
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-  - Bioluminous
-Pattern:
-Markings:
-  - Tobiano
-  - Calico
-  - Urajiro
-  - Caiman
-Level: 2
-Orbed: false
-Date Obtained: 2022-12-28
+publish: true
+created: 2026-02-20T12:55:46.435-05:00
+modified: 2026-02-20T12:58:14.475-05:00
 ---
-![[Pasted image 20260220125605.png]]
+
+![[Attachments/Pasted image 20260220125605.png]]

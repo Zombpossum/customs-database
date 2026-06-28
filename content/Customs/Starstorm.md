@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220162515.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Ice
-Characteristic:
-Pattern:
-  - star
-  - tdye
-Markings:
-  - Tapir
-  - Striations
-  - Calico
-Level: 0
-Orbed: false
-Date Obtained: 2021-12-13
+publish: true
+created: 2026-02-20T16:23:41.370-05:00
+modified: 2026-02-20T16:25:56.336-05:00
 ---
-![[Pasted image 20260220162515.png]]
+
+![[Attachments/Pasted image 20260220162515.png]]

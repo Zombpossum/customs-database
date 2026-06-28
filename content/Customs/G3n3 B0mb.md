@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220125430.png]]"
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Munchkin
-Characteristic:
-Pattern:
-Markings:
-  - Mane
-  - Somali
-  - Blaze
-  - Urajiro
-Level: 8
-Orbed: false
-Date Obtained: 2020-07-01
+publish: true
+created: 2026-02-20T12:54:07.618-05:00
+modified: 2026-02-20T12:55:40.940-05:00
 ---
-![[Pasted image 20260220125430.png]]
+
+![[Attachments/Pasted image 20260220125430.png]]

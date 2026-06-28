@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306204243.png
-Date Obtained: 2010-04-04
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Water
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Toes
-  - Leopard
-  - Thylacine
-Level: 2
-Orbed: false
+publish: true
+created: 2026-03-06T20:42:22.156-05:00
+modified: 2026-03-06T20:43:25.570-05:00
 ---
-**![[Pasted image 20260306204243.png]]**
+
+**![[Attachments/Pasted image 20260306204243.png]]**

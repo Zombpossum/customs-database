@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220214347.png]]"
-Date Obtained: 2020-09-15
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Urajiro
-  - Wolf
-  - Lower Fade
-  - Doberman
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:43:28.942-05:00
+modified: 2026-02-20T21:44:22.608-05:00
 ---
-![[Pasted image 20260220214347.png]]
+
+![[Attachments/Pasted image 20260220214347.png]]

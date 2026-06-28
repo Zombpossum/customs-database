@@ -1,18 +1,7 @@
 ---
-Image: "[[Pasted image 20260627190731.png]]"
-Date Obtained: 2026-06-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Chalk
-Breed:
-  - Longhair
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T19:07:05.486-04:00
+modified: 2026-06-27T19:07:51.365-04:00
 ---
-![[Pasted image 20260627190731.png]]
+
+![[Attachments/Pasted image 20260627190731.png]]

@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220211528.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Plant
-Characteristic:
-Pattern:
-Markings:
-  - Striations
-  - Tapir
-  - Dalmation
-Level: 0
-Orbed: false
-Date Obtained: 2022-01-22
+publish: true
+created: 2026-02-20T21:14:43.519-05:00
+modified: 2026-02-20T21:16:10.385-05:00
 ---
-![[Pasted image 20260220211528.png]]
+
+![[Attachments/Pasted image 20260220211528.png]]

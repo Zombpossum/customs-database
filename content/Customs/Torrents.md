@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220224243.png]]"
-Date Obtained: 2023-01-31
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Fire
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Tuxedo
-  - Classic Tabby
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:42:26.596-05:00
+modified: 2026-02-20T22:43:30.478-05:00
 ---
-![[Pasted image 20260220224243.png]]
+
+![[Attachments/Pasted image 20260220224243.png]]

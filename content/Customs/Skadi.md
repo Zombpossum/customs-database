@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306194201.png
-Date Obtained: 2024-12-29
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Water
-Gender:
-  - F
-Characteristic:
-Pattern:
-  - warm
-Markings:
-  - Filigree
-  - Roan
-  - Leopard
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T19:41:43.925-05:00
+modified: 2026-03-06T19:42:57.209-05:00
 ---
-![[Pasted image 20260306194201.png]]
+
+![[Attachments/Pasted image 20260306194201.png]]

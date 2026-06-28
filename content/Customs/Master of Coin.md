@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306205109.png
-Date Obtained: 2022-04-19
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Raccoon
-  - Snow Leopard
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T20:50:56.621-05:00
+modified: 2026-03-06T20:51:42.479-05:00
 ---
 
-![[Pasted image 20260306205109.png]]
+![[Attachments/Pasted image 20260306205109.png]]

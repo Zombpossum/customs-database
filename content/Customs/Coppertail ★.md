@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220220927.png]]"
-Date Obtained: 2020-09-26
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Lesser
-Characteristic:
-Pattern:
-Markings:
-  - Mackeral Tabby
-  - Centered
-  - Wolf
-  - Urajiro
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:09:13.971-05:00
+modified: 2026-02-20T22:10:03.421-05:00
 ---
-![[Pasted image 20260220220927.png]]
+
+![[Attachments/Pasted image 20260220220927.png]]

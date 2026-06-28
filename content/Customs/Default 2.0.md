@@ -1,18 +1,7 @@
 ---
-Image: Pasted image 20260306213521.png
-Date Obtained: 2019-05-13
-Owner:
-  - "{Ban}"
-Statue:
-  - Chalk
-Breed:
-  - Fire
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:35:13.129-05:00
+modified: 2026-03-06T21:35:45.281-05:00
 ---
-![[Pasted image 20260306213521.png]]
+
+![[Attachments/Pasted image 20260306213521.png]]

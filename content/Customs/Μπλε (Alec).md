@@ -1,19 +1,7 @@
 ---
-Image: "[Pasted image 20260220235444.png]]"
-Date Obtained: 2022-07-28
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Munchkin
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Back Stripe
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:54:33.034-05:00
+modified: 2026-02-20T23:55:09.397-05:00
 ---
-![[Pasted image 20260220235444.png]]
+
+![[Attachments/Pasted image 20260220235444.png]]

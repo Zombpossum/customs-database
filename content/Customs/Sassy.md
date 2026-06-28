@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220231655.png]]"
-Date Obtained: 2009-08-05
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Lesser
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Tuxedo
-  - Half (Left)
-  - Calico
-Level: 7
-Orbed: false
+publish: true
+created: 2026-02-20T23:16:47.530-05:00
+modified: 2026-02-20T23:17:41.256-05:00
 ---
-![[Pasted image 20260220231655.png]]
+
+![[Attachments/Pasted image 20260220231655.png]]

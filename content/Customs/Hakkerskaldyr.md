@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306230322.png
-Date Obtained: 2026-02-11
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Magma
-Gender:
-  - F
-Characteristic:
-Pattern:
-  - firo
-Markings:
-  - Shimmer
-  - Hood
-  - Tortoiseshell (Inverted)
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T23:03:03.568-05:00
+modified: 2026-03-06T23:03:56.476-05:00
 ---
-![[Pasted image 20260306230322.png]]
+
+![[Attachments/Pasted image 20260306230322.png]]

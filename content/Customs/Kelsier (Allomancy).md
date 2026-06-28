@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220163635.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Fire
-Characteristic:
-Pattern:
-Markings:
-  - Red Panda
-  - Roan
-  - Zebra
-  - Doberman
-Level: 0
-Orbed: false
-Date Obtained:
+publish: true
+created: 2026-02-20T16:36:00.701-05:00
+modified: 2026-02-20T16:36:56.005-05:00
 ---
-![[Pasted image 20260220163635.png]]
+
+![[Attachments/Pasted image 20260220163635.png]]

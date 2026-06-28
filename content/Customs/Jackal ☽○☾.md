@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220123659.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Earth
-Characteristic:
-Pattern:
-Markings:
-  - Husky
-  - Centered
-  - Spotted Tabby
-  - Roan
-Level: 0
-Orbed: false
-Date Made: 2017-01-10
+publish: true
+created: 2026-02-20T12:34:00.776-05:00
+modified: 2026-02-20T12:53:48.366-05:00
 ---
-![[Pasted image 20260220123659.png]]
+
+![[Attachments/Pasted image 20260220123659.png]]

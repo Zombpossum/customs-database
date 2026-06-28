@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220133425.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Water
-Characteristic:
-Pattern:
-Markings:
-  - Marbled
-  - Centered
-  - Shine
-  - Classic Tabby
-Level: 0
-Orbed: false
-Date Obtained: 2021-07-01
+publish: true
+created: 2026-02-20T13:34:16.648-05:00
+modified: 2026-02-20T13:35:09.658-05:00
 ---
-![[Pasted image 20260220133425.png]]
+
+![[Attachments/Pasted image 20260220133425.png]]

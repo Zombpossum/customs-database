@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220133909.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Air
-Characteristic:
-  - Fade
-Pattern:
-Markings:
-  - Marbled
-  - Shine
-  - Tobiano
-  - Glyphs
-Level: 0
-Orbed: false
-Date Obtained: 2022-01-09
+publish: true
+created: 2026-02-20T13:38:45.406-05:00
+modified: 2026-02-20T13:40:01.740-05:00
 ---
-![[Pasted image 20260220133909.png]]
+
+![[Attachments/Pasted image 20260220133909.png]]

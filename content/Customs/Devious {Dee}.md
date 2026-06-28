@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220205815.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Munchkin
-Characteristic:
-Pattern:
-Markings:
-  - Tobiano
-  - Classic Tabby
-  - Back Spikes
-  - Spotted Tabby
-Level: 0
-Orbed: false
-Date Obtained: 2021-07-21
+publish: true
+created: 2026-02-20T20:57:38.229-05:00
+modified: 2026-02-20T20:58:45.575-05:00
 ---
-![[Pasted image 20260220205815.png]]
+
+![[Attachments/Pasted image 20260220205815.png]]

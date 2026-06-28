@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220234623.png]]"
-Date Obtained: 2019-03-20
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Fire
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Agouti Tabby
-  - Ram Horns
-  - Irish (Cheekless)
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:46:13.240-05:00
+modified: 2026-02-20T23:47:02.316-05:00
 ---
-![[Pasted image 20260220234623.png]]
+
+![[Attachments/Pasted image 20260220234623.png]]

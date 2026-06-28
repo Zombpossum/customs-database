@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306204802.png
-Date Obtained: 2022-12-26
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Badger
-  - Red Panda
-  - Underside
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T20:47:49.282-05:00
+modified: 2026-03-06T20:48:54.860-05:00
 ---
-![[Pasted image 20260306204802.png]]
+
+![[Attachments/Pasted image 20260306204802.png]]

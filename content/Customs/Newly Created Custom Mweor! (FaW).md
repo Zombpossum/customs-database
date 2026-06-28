@@ -1,19 +1,7 @@
 ---
-Image: "[Pasted image 20260306221550.png"
-Date Obtained: 2026-01-10
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Faery Wings
-Level: 3
-Orbed: false
+publish: true
+created: 2026-03-06T22:15:30.033-05:00
+modified: 2026-03-06T22:16:32.634-05:00
 ---
-![[Pasted image 20260306221550.png]]
+
+![[Attachments/Pasted image 20260306221550.png]]

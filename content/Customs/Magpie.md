@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220131426.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-Characteristic:
-Pattern:
-Markings:
-  - Wolf
-  - Marbled
-  - Roan
-  - Doberman
-Level: 4
-Orbed: false
-Date Obtained: 2020-07-04
+publish: true
+created: 2026-02-20T13:13:55.658-05:00
+modified: 2026-02-20T13:15:09.420-05:00
 ---
 
-![[Pasted image 20260220131426.png]]
+![[Attachments/Pasted image 20260220131426.png]]

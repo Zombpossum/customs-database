@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306204440.png
-Date Obtained: 2019-12-13
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Air
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Siamese
-  - Okapi
-  - Barring
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T20:44:22.671-05:00
+modified: 2026-03-06T20:45:18.138-05:00
 ---
-![[Pasted image 20260306204440.png]]
+
+![[Attachments/Pasted image 20260306204440.png]]

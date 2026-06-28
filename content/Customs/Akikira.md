@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260220225027.png]]"
-Date Obtained: 2021-01-24
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Lesser
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Tabby
-  - Wild Cat
-  - Underside
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:50:11.898-05:00
+modified: 2026-02-20T22:51:12.980-05:00
 ---
-![[Pasted image 20260220225027.png]]
+
+![[Attachments/Pasted image 20260220225027.png]]

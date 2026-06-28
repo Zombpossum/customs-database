@@ -1,20 +1,7 @@
 ---
-Image: Pasted image 20260306211450.png
-Date Obtained: 2024-11-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Lynx Point
-  - Adaba Horns
-Level: 0
-Orbed: true
+publish: true
+created: 2026-03-06T21:14:24.959-05:00
+modified: 2026-03-06T21:15:36.210-05:00
 ---
-![[Pasted image 20260306211450.png]]
+
+![[Attachments/Pasted image 20260306211450.png]]

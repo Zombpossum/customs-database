@@ -1,21 +1,5 @@
 ---
-Image:
-Date Obtained: 2020-07-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Longhair
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Runes
-  - Urajiro
-  - Poison Dart Frog
-  - Ear Tufts
-Level: 2
-Orbed: false
+publish: true
+created: 2026-02-20T23:28:26.422-05:00
+modified: 2026-02-20T23:29:17.199-05:00
 ---

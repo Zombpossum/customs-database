@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306223230.png
-Date Obtained: 2025-03-17
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Raccoon
-  - Tapir
-  - Body Stripe
-Level: 5
-Orbed: false
+publish: true
+created: 2026-03-06T22:32:12.814-05:00
+modified: 2026-03-06T22:33:14.599-05:00
 ---
-![[Pasted image 20260306223230.png]]
+
+![[Attachments/Pasted image 20260306223230.png]]

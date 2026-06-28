@@ -1,22 +1,7 @@
 ---
-Image: "[[Pasted image 20260627191312.png]]"
-Date Obtained: 2026-06-03
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Plant
-Gender:
-  - M
-Characteristic:
-  - Fade
-Pattern:
-Markings:
-  - Upper Fade
-  - Filigree
-  - Hood
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T19:13:03.777-04:00
+modified: 2026-06-27T19:13:54.602-04:00
 ---
-![[Pasted image 20260627191312.png]]
+
+![[Attachments/Pasted image 20260627191312.png]]

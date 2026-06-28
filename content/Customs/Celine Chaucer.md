@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306230122.png
-Date Obtained: 2026-01-27
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Burmese
-  - Agouti Tabby
-  - Hood
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T23:01:12.894-05:00
+modified: 2026-03-06T23:02:04.485-05:00
 ---
-![[Pasted image 20260306230122.png]]
+
+![[Attachments/Pasted image 20260306230122.png]]

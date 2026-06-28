@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220132709.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Curl
-Characteristic:
-Pattern:
-Markings:
-  - Striations
-  - Candleflame Tabby
-  - Marbled
-  - Tobiano
-Level: 0
-Orbed: false
-Date Obtained: 2023-07-17
+publish: true
+created: 2026-02-20T13:26:55.384-05:00
+modified: 2026-02-20T13:28:08.793-05:00
 ---
-![[Pasted image 20260220132709.png]]
+
+![[Attachments/Pasted image 20260220132709.png]]

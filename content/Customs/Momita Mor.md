@@ -1,22 +1,7 @@
 ---
-Image: Pasted image 20260306225705.png
-Date Obtained: 2026-01-01
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Curl
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Filigree
-  - Neck
-  - Tortoiseshell
-  - Head
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T22:56:53.187-05:00
+modified: 2026-03-06T22:57:33.680-05:00
 ---
-![[Pasted image 20260306225705.png]]
+
+![[Attachments/Pasted image 20260306225705.png]]

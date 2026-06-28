@@ -1,20 +1,7 @@
 ---
-Image: Pasted image 20260306212810.png
-Date Obtained: 2022-01-25
-Owner:
-  - "{Ban}"
-Statue:
-  - Stone
-Breed:
-  - Munchkin
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Dalmation
-  - Marbled
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:28:03.088-05:00
+modified: 2026-03-06T21:28:42.376-05:00
 ---
-![[Pasted image 20260306212810.png]]
+
+![[Attachments/Pasted image 20260306212810.png]]

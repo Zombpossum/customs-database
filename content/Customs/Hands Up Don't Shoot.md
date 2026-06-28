@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260220234031.png]]"
-Date Obtained: 2020-11-28
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Chest Splash
-  - Freckles
-  - Pitbull
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T23:40:18.163-05:00
+modified: 2026-02-20T23:41:07.470-05:00
 ---
-![[Pasted image 20260220234031.png]]
+
+![[Attachments/Pasted image 20260220234031.png]]

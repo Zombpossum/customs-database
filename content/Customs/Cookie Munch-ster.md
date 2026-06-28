@@ -1,18 +1,7 @@
 ---
-Image: "[[Pasted image 20260220220040.png]]"
-Date Obtained: 2022-01-02
-Owner:
-  - "[Aki]"
-Statue:
-  - Stone
-Breed:
-  - Munchkin
-Characteristic:
-Pattern:
-Markings:
-  - Merle
-  - Gemstones
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:00:17.905-05:00
+modified: 2026-02-20T22:01:08.811-05:00
 ---
-![[Pasted image 20260220220040.png]]
+
+![[Attachments/Pasted image 20260220220040.png]]

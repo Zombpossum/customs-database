@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220221644.png]]"
-Date Obtained: 2021-01-19
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Munchkin
-Characteristic:
-Pattern:
-Markings:
-  - Centered
-  - Classic Tabby
-  - Urajiro
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T22:16:20.318-05:00
+modified: 2026-02-20T22:17:28.607-05:00
 ---
-![[Pasted image 20260220221644.png]]
+
+![[Attachments/Pasted image 20260220221644.png]]

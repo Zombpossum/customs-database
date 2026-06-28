@@ -1,24 +1,7 @@
 ---
-Image: Pasted image 20260306223548.png
-Date Obtained: 2025-04-04
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Curl
-Gender:
-  - M
-Characteristic:
-  - Ornate
-Pattern:
-  - gglt
-Markings:
-  - Red Panda
-  - Appaloosa
-  - Underside
-  - Eye Mask
-Level: 6
-Orbed: false
+publish: true
+created: 2026-03-06T22:35:34.049-05:00
+modified: 2026-03-06T22:36:31.386-05:00
 ---
-![[Pasted image 20260306223548.png]]
+
+![[Attachments/Pasted image 20260306223548.png]]

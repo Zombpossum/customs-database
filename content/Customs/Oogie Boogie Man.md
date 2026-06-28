@@ -1,19 +1,7 @@
 ---
-Image:
-Date Obtained: 2024-10-16
-Owner:
-  - "{Ban}"
-Statue:
-  - Clay
-Breed:
-  - Longhair
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Spotted Tabby
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:09:13.506-05:00
+modified: 2026-03-06T21:21:10.877-05:00
 ---
-![[Pasted image 20260306212048.png]]
+
+![[Attachments/Pasted image 20260306212048.png]]

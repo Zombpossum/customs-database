@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260221000244.png]]"
-Date Obtained: 2023-04-04
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Poison Dart Frog
-  - Raccoon
-  - Turkish Van
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-21T00:02:29.369-05:00
+modified: 2026-02-21T00:03:22.571-05:00
 ---
-![[Pasted image 20260221000244.png]]
+
+![[Attachments/Pasted image 20260221000244.png]]

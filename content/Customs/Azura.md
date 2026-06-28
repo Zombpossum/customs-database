@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220214632.png]]"
-Date Obtained: 2021-06-03
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Plant
-Characteristic:
-Pattern:
-  - star
-Markings:
-  - Centered
-  - Snow Leopard
-  - Roan
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:46:24.257-05:00
+modified: 2026-02-20T21:47:12.508-05:00
 ---
-![[Pasted image 20260220214632.png]]
+
+![[Attachments/Pasted image 20260220214632.png]]

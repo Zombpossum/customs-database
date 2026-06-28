@@ -1,20 +1,7 @@
 ---
-Image: "[Pasted image 20260220140134.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Fire
-Characteristic:
-Pattern:
-Markings:
-  - Lower Fade
-  - Agouti Tabby
-  - Classic Tabby
-  - Roan
-Level: 0
-Orbed: false
-Date Obtained: 2020-07-01
+publish: true
+created: 2026-02-20T14:01:08.864-05:00
+modified: 2026-02-20T14:02:20.549-05:00
 ---
-![[Pasted image 20260220140134.png]]
+
+![[Attachments/Pasted image 20260220140134.png]]

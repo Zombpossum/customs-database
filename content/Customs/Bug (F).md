@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306193523.png
-Date Obtained: 2018-01-23
-Owner:
-  - "{Ban}"
-Statue:
-  - Marble
-Breed:
-  - Munchkin
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Spotted Tabby
-  - Siamese
-  - Urajiro
-Level: 6
-Orbed: false
+publish: true
+created: 2026-03-06T19:34:42.180-05:00
+modified: 2026-03-06T19:36:31.727-05:00
 ---
-![[Pasted image 20260306193523.png]]
+
+![[Attachments/Pasted image 20260306193523.png]]

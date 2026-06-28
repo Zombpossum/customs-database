@@ -1,19 +1,7 @@
 ---
-Image: "[[Pasted image 20260220130515.png]]"
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Munchkin
-Characteristic:
-Pattern:
-Markings:
-  - Husky
-  - Blaze
-  - Tail
-Level: 0
-Orbed: false
-Date Obtained: 2022-04-19
+publish: true
+created: 2026-02-20T13:05:04.777-05:00
+modified: 2026-02-20T13:06:02.939-05:00
 ---
-![[Pasted image 20260220130515.png]]
+
+![[Attachments/Pasted image 20260220130515.png]]

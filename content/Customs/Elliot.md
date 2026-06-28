@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306212433.png
-Date Obtained: 2018-09-22
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Longhair
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Mackeral Tabby
-  - Marbled
-  - Classic Tabby
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T21:24:21.381-05:00
+modified: 2026-03-06T21:25:43.608-05:00
 ---
-![[Pasted image 20260306212433.png]]
+
+![[Attachments/Pasted image 20260306212433.png]]

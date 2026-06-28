@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220215716.png]]"
-Date Obtained: 2021-06-25
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Earth
-Characteristic:
-Pattern:
-Markings:
-  - German Shepherd
-  - Centered
-  - House Sparrow
-  - Husky
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:56:59.399-05:00
+modified: 2026-02-20T21:58:04.833-05:00
 ---
-![[Pasted image 20260220215716.png]]
+
+![[Attachments/Pasted image 20260220215716.png]]

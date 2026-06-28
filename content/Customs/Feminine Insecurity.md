@@ -1,21 +1,7 @@
 ---
-Image: Pasted image 20260306203611.png
-Date Obtained: 2024-12-15
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Air
-Gender:
-  - F
-Characteristic:
-Pattern:
-Markings:
-  - Irish (Cheekless)
-  - Great White Shark
-  - Lynx Point
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T20:35:41.976-05:00
+modified: 2026-03-06T20:36:53.638-05:00
 ---
-![[Pasted image 20260306203611.png]]
+
+![[Attachments/Pasted image 20260306203611.png]]

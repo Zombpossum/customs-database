@@ -1,24 +1,7 @@
 ---
-Image: Pasted image 20260306230517.png
-Date Obtained: 2026-02-24
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Magma
-Gender:
-  - F
-Characteristic:
-  - Ornate
-Pattern:
-  - blko
-  - firo
-Markings:
-  - Half (Right)
-  - Rear Fade
-  - Tortoiseshell
-Level: 0
-Orbed: false
+publish: true
+created: 2026-03-06T23:05:05.265-05:00
+modified: 2026-03-06T23:06:11.599-05:00
 ---
-![[Pasted image 20260306230517.png]]
+
+![[Attachments/Pasted image 20260306230517.png]]

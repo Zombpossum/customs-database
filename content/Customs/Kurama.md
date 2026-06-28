@@ -1,18 +1,5 @@
 ---
-Image:
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Air
-Characteristic:
-Pattern:
-Markings:
-  - Badger
-  - Red Panda
-  - Doberman
-Level: 0
-Orbed: false
-Date Obtained: 2021-03-10
+publish: true
+created: 2026-02-20T16:47:20.279-05:00
+modified: 2026-02-20T16:47:56.490-05:00
 ---

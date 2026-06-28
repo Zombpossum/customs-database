@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220213156.png]]"
-Date Obtained: 2022-11-22
-Owner:
-  - "[Aki]"
-Statue:
-  - Marble
-Breed:
-  - Earth
-Characteristic:
-Pattern:
-Markings:
-  - Marbled
-  - Holstein
-  - Irish
-  - Underside
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:31:38.917-05:00
+modified: 2026-02-20T21:32:35.611-05:00
 ---
-![[Pasted image 20260220213156.png]]
+
+![[Attachments/Pasted image 20260220213156.png]]

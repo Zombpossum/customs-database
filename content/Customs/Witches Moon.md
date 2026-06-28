@@ -1,20 +1,7 @@
 ---
-Image: "[[Pasted image 20260220214841.png]]"
-Date Obtained: 2020-11-03
-Owner:
-  - "[Aki]"
-Statue:
-  - Granite
-Breed:
-  - Longhair
-Characteristic:
-Pattern:
-  - star
-Markings:
-  - Centered
-  - Thylacine
-  - Irish
-Level: 0
-Orbed: false
+publish: true
+created: 2026-02-20T21:48:24.420-05:00
+modified: 2026-02-20T21:49:18.499-05:00
 ---
-![[Pasted image 20260220214841.png]]
+
+![[Attachments/Pasted image 20260220214841.png]]

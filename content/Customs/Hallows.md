@@ -1,21 +1,7 @@
 ---
-Image: "[[Pasted image 20260627190234.png]]"
-Date Obtained: 2026-06-08
-Owner:
-  - "{Ban}"
-Statue:
-  - Granite
-Breed:
-  - Plant
-Gender:
-  - M
-Characteristic:
-Pattern:
-Markings:
-  - Red Panda
-  - Classic Tabby
-  - Somali
-Level: 0
-Orbed: false
+publish: true
+created: 2026-06-27T19:02:25.452-04:00
+modified: 2026-06-27T19:03:11.124-04:00
 ---
-![[Pasted image 20260627190234.png]]
+
+![[Attachments/Pasted image 20260627190234.png]]
