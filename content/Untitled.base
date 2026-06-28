@@ -1,0 +1,37 @@
+filters:
+  and:
+    - file.folder == "Customs"
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Owner.contains("{Ban}")
+    order:
+      - file.name
+      - Owner
+      - Orbed
+      - Markings
+      - Level
+      - Pattern
+      - Characteristic
+      - Statue
+      - Breed
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Markings
+        direction: DESC
+  - type: cards
+    name: Cattery
+    order:
+      - file.name
+      - Owner
+      - Level
+      - Markings
+      - Pattern
+      - Statue
+      - Breed
+    image: note.Image
+    imageAspectRatio: 1.8
+    imageFit: contain
